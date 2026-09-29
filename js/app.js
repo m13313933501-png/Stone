@@ -5,6 +5,7 @@ import { buildICS } from './ics.js';
 
 let COMPANIES = [], JOBS = [], CMAP = [];
 let watchIds = new Set();
+let showAllJobs = false;
 const $ = (s) => document.querySelector(s);
 
 async function init() {
@@ -26,12 +27,16 @@ async function init() {
 }
 
 function buildFilters() {
-  const ind = $('#industry'), city = $('#city');
+  const ind = $('#industry'), city = $('#city'), batch = $('#batch'), status = $('#status');
   ind.innerHTML = '<option value="">全部行业</option>' + uniqueValues(JOBS, 'industry').map(v => `<option>${v}</option>`).join('');
   city.innerHTML = '<option value="">全部城市</option>' + uniqueValues(JOBS, 'location').map(v => `<option>${v}</option>`).join('');
+  batch.innerHTML = '<option value="">全部批次</option>' + ['提前批', '正式批', '实习', '补录'].map(v => `<option>${v}</option>`).join('');
+  status.innerHTML = '<option value="">全部状态</option>' + ['已开启', '已截止', '待确认'].map(v => `<option>${v}</option>`).join('');
   $('#kw').addEventListener('input', renderJobs);
   ind.addEventListener('change', renderJobs);
   city.addEventListener('change', renderJobs);
+  batch.addEventListener('change', renderJobs);
+  status.addEventListener('change', renderJobs);
   $('#hideExpired').addEventListener('change', renderJobs);
 }
 
@@ -40,15 +45,24 @@ function currentFilters() {
     keyword: $('#kw').value,
     industry: $('#industry').value,
     city: $('#city').value,
+    batch: $('#batch').value,
+    status: $('#status').value,
     hideExpired: $('#hideExpired').checked
   };
 }
 
 function renderJobs() {
+  showAllJobs = false;
   const list = sortByDeadline(filterJobs(JOBS, currentFilters()));
   $('#jobCount').textContent = `共 ${list.length} 个岗位（按截止时间升序）`;
   if (!list.length) { $('#jobList').innerHTML = '<div class="empty">没有符合条件的岗位</div>'; }
-  else { $('#jobList').innerHTML = list.map(jobCard).join(''); }
+  else {
+    const capped = list.length > 300;
+    const view = capped ? list.slice(0, 300) : list;
+    $('#jobList').innerHTML = view.map(jobCard).join('') +
+      (capped ? `<button class="more" id="moreBtn">显示全部 ${list.length} 个岗位 ↓</button>` : '');
+    if (capped) $('#moreBtn').addEventListener('click', () => { showAllJobs = true; renderJobs(); });
+  }
   document.querySelectorAll('.card').forEach(el => el.addEventListener('click', () => openJob(el.dataset.id)));
   document.querySelectorAll('.star').forEach(b => b.addEventListener('click', e => { e.stopPropagation(); onToggleWatch(b.dataset.star); }));
   renderSoon();
@@ -57,18 +71,20 @@ function renderJobs() {
 function jobCard(j) {
   const dl = daysLeft(j.deadline);
   let badge;
-  if (dl === null) badge = '<span class="badge tbd">截止待定</span>';
-  else if (dl < 0) badge = '<span class="badge closed">已截止</span>';
+  if (j.status === '已截止' || (dl !== null && dl < 0)) badge = '<span class="badge closed">已截止</span>';
+  else if (dl === null) badge = '<span class="badge tbd">截止待定</span>';
   else if (dl <= 7) badge = `<span class="badge soon">${dl} 天后截止</span>`;
   else badge = `<span class="badge open">${dl} 天后截止</span>`;
   const star = watchIds.has(j.id) ? '★' : '☆';
+  const batch = j.batch ? `<span class="badge batch">${j.batch}</span>` : '';
+  const verified = j.verified ? '<span class="badge ok" title="信息已核实">✓ 已核实</span>' : '';
   const skills = (j.skills || []).slice(0, 6).map(s => `<span class="chip">${s}</span>`).join('');
   return `<div class="card" data-id="${j.id}">
     <button class="star" data-star="${j.id}" title="关注/取消">${star}</button>
-    <div class="co">${j.company}</div>
+    <div class="co">${j.company} ${verified}</div>
     <h3>${j.jobTitle}</h3>
-    <div class="meta"><span>📍 ${j.location || '—'}</span><span>🏷 ${j.industry || '—'}</span><span>来源 ${j.source}</span></div>
-    <div class="meta">${badge} ${j.deadline ? '截止 ' + j.deadline : ''}</div>
+    <div class="meta"><span>📍 ${j.location || '—'}</span><span>🏷 ${j.industry || '—'}</span></div>
+    <div class="meta">${badge} ${batch} <span class="src">${j.source}</span></div>
     <div class="chips">${skills}</div>
   </div>`;
 }
@@ -91,12 +107,14 @@ function openJob(id) {
   const dl = daysLeft(j.deadline);
   const deadlineText = j.deadline ? j.deadline + (dl < 0 ? '（已截止）' : `（${dl} 天后）`) : '待定';
   const star = watchIds.has(j.id) ? '★' : '☆';
+  const positions = (j.positions && j.positions.length) ? j.positions.map(p => `<li>${p}</li>`).join('') : '';
   $('#modal').innerHTML = `
     <button class="close" id="modalClose">×</button>
-    <div class="co">${j.company}</div>
+    <div class="co">${j.company} ${j.verified ? '<span class="badge ok">✓ 已核实</span>' : ''}</div>
     <h2>${j.jobTitle} <button class="star" id="modalStar" data-star="${j.id}" title="关注/取消">${star}</button></h2>
     <div class="meta" style="color:var(--muted);font-size:13px">📍 ${j.location || '—'} · 🏷 ${j.industry || '—'} · 来源 ${j.source}</div>
-    <div style="margin-top:8px">截止时间：<strong>${deadlineText}</strong></div>
+    <div style="margin-top:8px">批次：<strong>${j.batch || '—'}</strong> &nbsp;·&nbsp; 状态：<strong>${j.status || '—'}</strong> &nbsp;·&nbsp; 截止：<strong>${deadlineText}</strong></div>
+    ${positions ? `<div style="margin-top:10px"><div style="font-size:13px;color:var(--muted)">岗位方向</div><ul class="pos">${positions}</ul></div>` : ''}
     <div class="chips">${(j.skills || []).map(s => `<span class="chip">${s}</span>`).join('')}</div>
     <div class="jd">${j.jd || '暂无描述'}</div>
     <div class="actions">

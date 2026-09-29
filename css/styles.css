@@ -66,6 +66,13 @@ main { max-width: 1080px; margin: 0 auto; padding: 22px 20px 60px; }
 .badge.closed { background: #fee2e2; color: var(--danger); }
 .badge.open { background: #dcfce7; color: var(--ok); }
 .badge.tbd { background: #e5e7eb; color: var(--muted); }
+.badge.batch { background: #e0e7ff; color: #4338ca; }
+.badge.ok { background: #d1fae5; color: #047857; }
+.src { font-size: 11.5px; color: var(--muted); margin-left: 4px; }
+.more { display: block; margin: 18px auto; padding: 10px 22px; border: 1px solid var(--line); background: var(--card); color: var(--accent); border-radius: 10px; font-size: 14px; font-weight: 600; cursor: pointer; }
+.more:hover { background: var(--chip); }
+.pos { margin: 6px 0 0; padding-left: 18px; font-size: 13px; color: var(--ink); line-height: 1.7; }
+.pos li { list-style: disc; }
 
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
 .chip { background: var(--chip); color: var(--chip-ink); font-size: 12px; padding: 3px 9px; border-radius: 999px; }

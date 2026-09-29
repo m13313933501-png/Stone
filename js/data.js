@@ -36,17 +36,19 @@ export function sortByDeadline(jobs) {
   });
 }
 
-export function filterJobs(jobs, { keyword, industry, city, hideExpired }, now = Date.now()) {
+export function filterJobs(jobs, { keyword, industry, city, batch, status, hideExpired }, now = Date.now()) {
   keyword = (keyword || '').trim().toLowerCase();
   return jobs.filter(j => {
     if (industry && j.industry !== industry) return false;
     if (city && j.location !== city) return false;
+    if (batch && (j.batch || '').indexOf(batch) === -1) return false;
+    if (status && j.status !== status) return false;
     if (hideExpired) {
       const dl = daysLeft(j.deadline, now);
       if (dl !== null && dl < 0) return false;
     }
     if (keyword) {
-      const hay = (j.jobTitle + ' ' + j.company + ' ' + (j.skills || []).join(' ') + ' ' + (j.location || '')).toLowerCase();
+      const hay = (j.jobTitle + ' ' + j.company + ' ' + (j.skills || []).join(' ') + ' ' + (j.location || '') + ' ' + (j.positions || []).join(' ')).toLowerCase();
       if (!hay.includes(keyword)) return false;
     }
     return true;

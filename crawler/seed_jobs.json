@@ -1,0 +1,382 @@
+[
+  {
+    "id": "x1",
+    "companyId": "c1",
+    "company": "字节跳动",
+    "jobTitle": "AI Agent开发实习生",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/446930?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": "https://www.bytedance.com",
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": []
+  },
+  {
+    "id": "x2",
+    "companyId": "c7",
+    "company": "成都森域星禾科技有限公司",
+    "jobTitle": "软件测试实习生",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/457018?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "测试",
+      "软件"
+    ]
+  },
+  {
+    "id": "x3",
+    "companyId": "c8",
+    "company": "阿里巴巴集团",
+    "jobTitle": "【阿里基因-深象智能实习生】视觉&多模态算法工程师",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/164845?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "算法"
+    ]
+  },
+  {
+    "id": "x4",
+    "companyId": "c9",
+    "company": "科大讯飞",
+    "jobTitle": "机器人/小车调试实习生岗位",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/469867?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": []
+  },
+  {
+    "id": "x5",
+    "companyId": "c10",
+    "company": "SmartX",
+    "jobTitle": "实习生 - 分布式文件存储",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/426546?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "分布式"
+    ]
+  },
+  {
+    "id": "x6",
+    "companyId": "c11",
+    "company": "重庆千里科技股份有限公司",
+    "jobTitle": "自动驾驶项目管理实习生",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000146437?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "项目管理"
+    ]
+  },
+  {
+    "id": "x7",
+    "companyId": "c12",
+    "company": "巨一",
+    "jobTitle": "27届校园大使",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000146891?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": []
+  },
+  {
+    "id": "x8",
+    "companyId": "c13",
+    "company": "深圳市普渡科技股份有限公司",
+    "jobTitle": "普渡机器人校园猎手(J12606)",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000146073?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": []
+  },
+  {
+    "id": "x9",
+    "companyId": "c14",
+    "company": "极智嘉 Geek+",
+    "jobTitle": "实习-C++开发",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000145667?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "C++",
+      "C"
+    ]
+  },
+  {
+    "id": "x10",
+    "companyId": "c15",
+    "company": "上海非凸智能科技有限公司",
+    "jobTitle": "后端开发工程师（Rust方向）",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000145061?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "Rust"
+    ]
+  },
+  {
+    "id": "x11",
+    "companyId": "c1",
+    "company": "字节跳动",
+    "jobTitle": "编译器开发工程师（26/27/28 届）",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/446940?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": "https://www.bytedance.com",
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": []
+  },
+  {
+    "id": "x12",
+    "companyId": "c7",
+    "company": "成都森域星禾科技有限公司",
+    "jobTitle": "软件测试实习生",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/457017?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "测试",
+      "软件"
+    ]
+  },
+  {
+    "id": "x13",
+    "companyId": "c16",
+    "company": "韶音科技",
+    "jobTitle": "产品合规实习生",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000144971?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "产品"
+    ]
+  },
+  {
+    "id": "x14",
+    "companyId": "c17",
+    "company": "九坤投资",
+    "jobTitle": "数据开发实习生",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000144823?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": []
+  },
+  {
+    "id": "x15",
+    "companyId": "c10",
+    "company": "SmartX",
+    "jobTitle": "基础架构实习生（存储）",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/464380?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": []
+  },
+  {
+    "id": "x16",
+    "companyId": "c11",
+    "company": "重庆千里科技股份有限公司",
+    "jobTitle": "产品实习生",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000146430?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "产品"
+    ]
+  },
+  {
+    "id": "x17",
+    "companyId": "c9",
+    "company": "科大讯飞",
+    "jobTitle": "CV测试实习生",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/469859?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "CV",
+      "测试"
+    ]
+  },
+  {
+    "id": "x18",
+    "companyId": "c18",
+    "company": "仲望咨询",
+    "jobTitle": "能源电力-招聘研究员（可实习转正）",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/234045?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": []
+  },
+  {
+    "id": "x19",
+    "companyId": "c14",
+    "company": "极智嘉 Geek+",
+    "jobTitle": "实习-产品工程师",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000145670?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "产品"
+    ]
+  },
+  {
+    "id": "x20",
+    "companyId": "c15",
+    "company": "上海非凸智能科技有限公司",
+    "jobTitle": "证券金融产品经理（校招/实习）",
+    "location": "",
+    "industry": "",
+    "deadline": null,
+    "applyUrl": "https://www.nowcoder.com/jobs/detail/30300000145063?deliverSource=1&pageSource=5001&channel=npJobTab",
+    "officialUrl": null,
+    "source": "牛客校招/实习",
+    "jd": "",
+    "skills": [
+      "产品",
+      "产品经理",
+      "金融"
+    ]
+  },
+  {
+    "id": "seed21",
+    "companyId": "c2",
+    "company": "腾讯",
+    "jobTitle": "秋招岗位（详见官网）",
+    "location": "",
+    "industry": "互联网",
+    "deadline": null,
+    "applyUrl": "https://www.tencent.com",
+    "officialUrl": "https://www.tencent.com",
+    "source": "种子清单",
+    "jd": "请在官网招聘页查看具体岗位与要求。",
+    "skills": []
+  },
+  {
+    "id": "seed22",
+    "companyId": "c3",
+    "company": "阿里巴巴",
+    "jobTitle": "秋招岗位（详见官网）",
+    "location": "",
+    "industry": "互联网/电商",
+    "deadline": null,
+    "applyUrl": "https://www.alibabagroup.com",
+    "officialUrl": "https://www.alibabagroup.com",
+    "source": "种子清单",
+    "jd": "请在官网招聘页查看具体岗位与要求。",
+    "skills": []
+  },
+  {
+    "id": "seed23",
+    "companyId": "c4",
+    "company": "华为",
+    "jobTitle": "秋招岗位（详见官网）",
+    "location": "",
+    "industry": "通信/硬件",
+    "deadline": null,
+    "applyUrl": "https://www.huawei.com",
+    "officialUrl": "https://www.huawei.com",
+    "source": "种子清单",
+    "jd": "请在官网招聘页查看具体岗位与要求。",
+    "skills": []
+  },
+  {
+    "id": "seed24",
+    "companyId": "c5",
+    "company": "国家电网",
+    "jobTitle": "秋招岗位（详见官网）",
+    "location": "",
+    "industry": "能源/国企",
+    "deadline": null,
+    "applyUrl": "http://www.sgcc.com.cn",
+    "officialUrl": "http://www.sgcc.com.cn",
+    "source": "种子清单",
+    "jd": "请在官网招聘页查看具体岗位与要求。",
+    "skills": []
+  },
+  {
+    "id": "seed25",
+    "companyId": "c6",
+    "company": "工商银行",
+    "jobTitle": "秋招岗位（详见官网）",
+    "location": "",
+    "industry": "金融/国企",
+    "deadline": null,
+    "applyUrl": "https://www.icbc.com.cn",
+    "officialUrl": "https://www.icbc.com.cn",
+    "source": "种子清单",
+    "jd": "请在官网招聘页查看具体岗位与要求。",
+    "skills": []
+  }
+]
