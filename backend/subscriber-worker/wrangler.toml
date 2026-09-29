@@ -1,0 +1,19 @@
+name = "qiuzhao-subscriber"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+
+# 定时触发：每天 01:00 UTC ≈ 北京时间 09:00，检查临近截止（≤3天）的订阅
+[triggers]
+crons = ["0 1 * * *"]
+
+# KV 命名空间（部署前用 `wrangler kv namespace create SUBS` 创建，并把 id 填到下面）
+[[kv_namespaces]]
+binding = "SUBS"
+id = "REPLACE_WITH_YOUR_KV_ID"
+
+# 站点根地址（GitHub Pages 上线后即为该地址；用于回查最新岗位截止时间）
+[vars]
+SITE_BASE = "https://m13313933501-png.github.io/Stone"
+
+# 可选：邮件发送（Resend 免费额度）。不填则仅微信（Server 酱）提醒。
+# 在 Cloudflare 后台 Secrets 里设置 RESEND_API_KEY

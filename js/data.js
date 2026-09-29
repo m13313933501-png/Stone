@@ -1,33 +1,79 @@
-// 数据加载与岗位筛选/排序工具
+// 数据加载与岗位筛选/排序工具（支持分片懒加载）
 
-export async function loadJobs() {
-  const r = await fetch('./data/jobs.json');
-  if (!r.ok) throw new Error('岗位数据加载失败 (HTTP ' + r.status + ')');
-  return r.json();
+// 与 crawler/build_index.py 的 HEADER 保持一致（无 meta 时的兜底）
+export const HEADER_FALLBACK = ["id", "company", "jobTitle", "positions", "location", "industry",
+  "batch", "status", "deadline", "applyUrl", "officialUrl", "source", "verified", "skills"];
+
+let META = null;
+const indexCache = new Map();   // shardIndex -> Promise<jobObject[]>
+const jdCache = new Map();      // shardIndex -> Promise<{id: jd}>
+
+export async function loadMeta() {
+  if (META) return META;
+  const r = await fetch('./data/meta.json');
+  if (!r.ok) throw new Error('HTTP ' + r.status);
+  META = await r.json();
+  return META;
+}
+export function getMeta() { return META; }
+
+export async function loadIndexShard(i) {
+  if (indexCache.has(i)) return indexCache.get(i);
+  const p = (async () => {
+    const r = await fetch(`./data/index/${String(i).padStart(3, '0')}.json`);
+    if (!r.ok) throw new Error('分片 ' + i + ' HTTP ' + r.status);
+    const data = await r.json();
+    const header = (META && META.header) || HEADER_FALLBACK;
+    return data.jobs.map(arr => {
+      const o = {};
+      header.forEach((k, idx) => { o[k] = arr[idx]; });
+      o._s = i;            // 记录所属分片，供 jd 懒加载定位
+      return o;
+    });
+  })();
+  indexCache.set(i, p);
+  return p;
 }
 
-export async function loadCompanies() {
-  const r = await fetch('./data/companies.json');
-  if (!r.ok) throw new Error('企业数据加载失败 (HTTP ' + r.status + ')');
-  return r.json();
+export async function loadJdShard(i) {
+  if (jdCache.has(i)) return jdCache.get(i);
+  const p = (async () => {
+    const r = await fetch(`./data/jd/${String(i).padStart(3, '0')}.json`);
+    if (!r.ok) return {};
+    return await r.json();
+  })();
+  jdCache.set(i, p);
+  return p;
 }
 
-export function getCompanyMap(companies) {
-  const m = {};
-  for (const c of companies) m[c.id] = c;
-  return m;
+// 取单个岗位的 jd（懒加载对应分片，结果缓存在 job._jd）
+export async function getJd(job) {
+  if (!job) return '';
+  if (job._jd !== undefined) return job._jd;
+  const map = await loadJdShard(job._s);
+  job._jd = (map && map[job.id]) || '';
+  return job._jd;
 }
+
+// 全量加载所有分片（首屏之后后台执行；筛选/匹配时需要）
+export async function loadAllIndex() {
+  const m = await loadMeta();
+  const arrs = await Promise.all(
+    Array.from({ length: m.shards }, (_, i) => loadIndexShard(i))
+  );
+  return arrs.flat();
+}
+
+// ---------- 以下为纯函数工具，与加载方式无关 ----------
 
 const DAY = 86400000;
 
-// 返回距离截止的剩余天数；deadline 为空返回 null
 export function daysLeft(deadline, now = Date.now()) {
   if (!deadline) return null;
   const d = new Date(deadline + 'T23:59:59').getTime();
   return Math.ceil((d - now) / DAY);
 }
 
-// 按截止时间升序，deadline 缺失排末尾
 export function sortByDeadline(jobs) {
   return [...jobs].sort((a, b) => {
     const da = a.deadline ? new Date(a.deadline).getTime() : Infinity;
@@ -48,7 +94,8 @@ export function filterJobs(jobs, { keyword, industry, city, batch, status, hideE
       if (dl !== null && dl < 0) return false;
     }
     if (keyword) {
-      const hay = (j.jobTitle + ' ' + j.company + ' ' + (j.skills || []).join(' ') + ' ' + (j.location || '') + ' ' + (j.positions || []).join(' ')).toLowerCase();
+      const hay = (j.jobTitle + ' ' + j.company + ' ' + (j.skills || []).join(' ') + ' ' +
+        (j.location || '') + ' ' + (j.positions || []).join(' ')).toLowerCase();
       if (!hay.includes(keyword)) return false;
     }
     return true;
@@ -57,4 +104,9 @@ export function filterJobs(jobs, { keyword, industry, city, batch, status, hideE
 
 export function uniqueValues(jobs, key) {
   return [...new Set(jobs.map(j => j[key]).filter(Boolean))].sort();
+}
+
+// 判断 applyUrl 是否为可点击的 http(s) 链接（用于容错展示）
+export function isHttpUrl(s) {
+  return /^https?:\/\//i.test(s || '');
 }
