@@ -57,6 +57,19 @@ jobs:
         with:
           path: "."     # 整个仓库即静态站点（index.html 在根目录）
 
+      - name: 启用 GitHub Pages（首次自动启用 / 已启用则幂等）
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          echo "尝试启用 Pages（build_type=workflow）…"
+          curl -s -o /dev/null -w "POST /pages -> %{http_code}\n" -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "Content-Type: application/json" \
+            -d '{"build_type":"workflow"}' \
+            "https://api.github.com/repos/$GH_REPO/pages"
+
       - name: 部署到 GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
