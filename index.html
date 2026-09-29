@@ -2,83 +2,130 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="description" content="秋招助手：聚合企业秋招需求，简历智能匹配，截止时间提醒" />
   <title>秋招助手 · 大学生秋招聚合与简历匹配</title>
   <link rel="stylesheet" href="./css/styles.css" />
 </head>
 <body>
-  <header class="site">
-    <div class="wrap">
-      <h1>秋招助手</h1>
-      <p>聚合企业秋招需求 · 简历智能匹配 · 截止时间提醒</p>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <button class="brand" data-view="jobs">秋招助手</button>
+      <nav class="topnav">
+        <button class="navlink active" data-view="jobs">岗位</button>
+        <button class="navlink" data-view="resume">简历</button>
+        <button class="navlink" data-view="watch">关注</button>
+        <button class="navlink" data-view="subscribe">提醒</button>
+      </nav>
+      <div class="topstat"><strong id="statTotal">—</strong> 在招 · 每日更新</div>
     </div>
-    <nav class="tabs">
-      <button data-tab="jobs" class="active">岗位列表</button>
-      <button data-tab="resume">我的简历</button>
-      <button data-tab="watch">关注/日历</button>
-      <button data-tab="subscribe">提醒订阅</button>
-    </nav>
   </header>
 
-  <main>
-    <section id="jobs" class="section active">
+  <main class="main">
+
+    <!-- 岗位 -->
+    <section id="view-jobs" class="view active">
+      <div class="toolbar" id="toolbar">
+        <div class="search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+          <input type="search" id="kw" placeholder="搜索公司 / 岗位 / 技能" autocomplete="off" />
+        </div>
+        <button id="filterToggle" class="filter-toggle" aria-expanded="false">
+          筛选
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="filter-extras" id="filterExtras">
+          <select id="industry" class="sel" aria-label="行业"></select>
+          <select id="city" class="sel" aria-label="城市"></select>
+          <select id="batch" class="sel" aria-label="批次"></select>
+          <select id="status" class="sel" aria-label="状态"></select>
+          <label class="switch">
+            <input type="checkbox" id="hideExpired" />
+            <span class="track" aria-hidden="true"></span>
+            <span class="switch-label">显示已截止</span>
+          </label>
+        </div>
+      </div>
+
       <div id="soonBox"></div>
-      <div class="toolbar">
-        <input type="search" id="kw" placeholder="搜索岗位 / 公司 / 技能 / 城市" />
-        <select id="industry"></select>
-        <select id="city"></select>
-        <select id="batch"></select>
-        <select id="status"></select>
-        <label class="chk"><input type="checkbox" id="hideExpired" /> 隐藏已截止</label>
+
+      <div class="list-head">
+        <h2>全部岗位</h2>
+        <span class="list-count" id="jobCount"></span>
       </div>
-      <div class="count" id="jobCount"></div>
-      <div class="grid" id="jobList"></div>
+      <div id="jobList" class="cards"></div>
     </section>
 
-    <section id="resume" class="section">
-      <div class="uploader" id="uploader">
-        <p><strong>上传你的简历</strong>（PDF / DOCX）</p>
-        <p>仅在本机浏览器解析与保存，不会上传任何服务器。</p>
-        <input type="file" id="file" accept=".pdf,.docx" hidden />
-        <button class="btn" id="pickBtn">选择文件</button>
-        <p>或把文件拖到这里</p>
+    <!-- 简历 -->
+    <section id="view-resume" class="view">
+      <div class="panel">
+        <h2 class="panel-title">我的简历</h2>
+        <p class="panel-sub">简历仅在本机浏览器解析与保存，不会上传任何服务器。</p>
+        <div class="uploader" id="uploader">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 16V4m0 0l-4 4m4-4l4 4"/><path d="M4 16v3a1 1 0 001 1h14a1 1 0 001-1v-3"/></svg>
+          <p class="up-title">上传你的简历</p>
+          <p class="hint">支持 PDF / DOCX，或把文件拖到这里</p>
+          <input type="file" id="file" accept=".pdf,.docx" hidden />
+          <button class="btn primary" id="pickBtn">选择文件</button>
+        </div>
+        <div class="status" id="status"></div>
+        <div id="skillsBox"></div>
+        <div class="reco" id="recoBox"></div>
       </div>
-      <div class="status" id="status"></div>
-      <div id="skillsBox"></div>
-      <div class="reco" id="recoBox"></div>
     </section>
 
-    <section id="watch" class="section">
-      <div class="reco">
-        <h3>我关注的岗位</h3>
+    <!-- 关注 -->
+    <section id="view-watch" class="view">
+      <div class="panel">
+        <h2 class="panel-title">关注与日历</h2>
         <div id="watchList"></div>
-        <button class="btn" id="exportIcs">导出日历提醒 (.ics)</button>
-        <p style="color:var(--muted);font-size:12.5px;margin-top:10px">导出的 .ics 可导入手机/电脑日历，在截止前 3 天与 1 天收到提醒；投递入口与官网链接见各岗位详情。</p>
+        <button class="btn primary" id="exportIcs">导出日历提醒 (.ics)</button>
+        <p class="hint">导出的 .ics 可导入手机 / 电脑日历，在截止前 3 天与 1 天收到提醒；投递入口见各岗位详情。</p>
       </div>
     </section>
 
-    <section id="subscribe" class="section">
-      <div class="reco">
-        <h3>截止提醒订阅（邮件 / 微信）</h3>
-        <p style="color:var(--muted);font-size:13px">关注若干岗位（岗位卡片点 ☆）后，在此订阅：临近截止（≤3 天）时会通过邮件、以及微信（需填 Server 酱 Key）提醒你。</p>
+    <!-- 提醒 -->
+    <section id="view-subscribe" class="view">
+      <div class="panel">
+        <h2 class="panel-title">截止提醒订阅</h2>
+        <p class="panel-sub">先在岗位卡片点 ☆ 关注岗位，再在此订阅；临近截止（≤ 3 天）时通过邮件、微信（需 Server 酱 Key）提醒你。</p>
         <div class="form">
           <label>邮箱<input type="email" id="subEmail" placeholder="you@example.com" /></label>
           <label>微信提醒 Key（可选，Server 酱）<input type="text" id="subKey" placeholder="SCTxxxxxxxx（留空则仅邮件）" /></label>
-          <button class="btn" id="subBtn">订阅提醒</button>
+          <button class="btn primary" id="subBtn">订阅提醒</button>
         </div>
-        <p id="subNote" style="color:var(--muted);font-size:12.5px;margin-top:10px"></p>
-        <p style="color:var(--muted);font-size:12.5px;margin-top:6px">提醒后端为可选轻量服务（Cloudflare Worker，免费）。未部署时本标签页不可用，不影响其它功能。</p>
+        <p class="hint" id="subNote"></p>
+        <p class="hint">提醒后端为可选轻量服务（Cloudflare Worker，免费）。未部署时本页不可用，不影响其它功能。</p>
       </div>
     </section>
   </main>
 
-  <div class="modal-mask" id="modalMask">
-    <div class="modal" id="modal"></div>
-  </div>
+  <div id="drawerMask" class="drawer-mask" hidden></div>
+  <aside id="drawer" class="drawer" hidden aria-label="岗位详情"></aside>
 
-  <footer class="site">
+  <footer class="foot">
     数据来自公开秋招信息聚合，仅供参考，请以企业官方招聘渠道为准。本站不收集简历，所有解析均在你的浏览器本地完成。
   </footer>
+
+  <nav class="tabbar">
+    <button class="tab active" data-view="jobs">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 012-2h4a2 2 0 012 2v2"/></svg>
+      <span>岗位</span>
+    </button>
+    <button class="tab" data-view="resume">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h9l4 4v13a1 1 0 01-1 1H6a1 1 0 01-1-1V4a1 1 0 011-1z"/><path d="M9 12h7M9 16h7"/></svg>
+      <span>简历</span>
+    </button>
+    <button class="tab" data-view="watch">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5l2.4 4.9 5.4.8-3.9 3.8.9 5.4-4.8-2.5-4.8 2.5.9-5.4-3.9-3.8 5.4-.8z"/></svg>
+      <span>关注</span>
+    </button>
+    <button class="tab" data-view="subscribe">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M18 9a6 6 0 10-12 0c0 5-2 6-2 6h16s-2-1-2-6"/><path d="M10 19a2 2 0 004 0"/></svg>
+      <span>提醒</span>
+    </button>
+  </nav>
 
   <!-- DOCX 解析（UMD，全局 mammoth） -->
   <script src="https://cdn.jsdelivr.net/npm/mammoth@1.6.0/mammoth.browser.min.js"></script>
