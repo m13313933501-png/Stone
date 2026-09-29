@@ -71,7 +71,8 @@ const DAY = 86400000;
 export function daysLeft(deadline, now = Date.now()) {
   if (!deadline) return null;
   const d = new Date(deadline + 'T23:59:59').getTime();
-  return Math.ceil((d - now) / DAY);
+  // floor：当天剩余不足一天记 0 → 「今天截止 = 剩 0 天」，明天截止 = 剩 1 天
+  return Math.floor((d - now) / DAY);
 }
 
 export function sortByDeadline(jobs) {
@@ -82,6 +83,8 @@ export function sortByDeadline(jobs) {
   });
 }
 
+// hideExpired：仅隐藏「截止日已过」的岗位（剩 0 天 = 今天截止，正常显示并标记「今天截止」）。
+// 用户在状态下拉里显式选「已截止」时不隐藏（明确想看）。
 export function filterJobs(jobs, { keyword, industry, city, batch, status, hideExpired }, now = Date.now()) {
   keyword = (keyword || '').trim().toLowerCase();
   return jobs.filter(j => {
@@ -89,9 +92,10 @@ export function filterJobs(jobs, { keyword, industry, city, batch, status, hideE
     if (city && j.location !== city) return false;
     if (batch && (j.batch || '').indexOf(batch) === -1) return false;
     if (status && j.status !== status) return false;
-    if (hideExpired) {
+    if (hideExpired && status !== '已截止') {
       const dl = daysLeft(j.deadline, now);
       if (dl !== null && dl < 0) return false;
+      if (dl === null && j.status === '已截止') return false;
     }
     if (keyword) {
       const hay = (j.jobTitle + ' ' + j.company + ' ' + (j.skills || []).join(' ') + ' ' +
