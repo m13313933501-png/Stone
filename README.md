@@ -39,9 +39,12 @@ python -m http.server 8080
 
 ## 部署（GitHub Pages）
 
-1. 将本仓库推送到 GitHub
-2. 仓库 Settings → Pages → Source 选 `GitHub Actions`（或 `main` 分支 `/root`）
-3. 每日 02:00（北京）Actions 自动爬取并提交数据，Pages 自动发布
+1. 将本仓库推送到 GitHub（需先完成 GitHub 认证：`gh auth login` 或配置 `GITHUB_TOKEN`）
+2. 仓库 Settings → Pages → **Source 选 `GitHub Actions`**
+3. 推送后首次 Actions 会自动运行：先爬取最新数据，再部署站点；之后每日 02:00（北京）定时更新
+
+> 工作流 `.github/workflows/crawl.yml` 已同时负责「爬取 + 提交数据 + 部署 Pages」，
+> 因此 Pages 来源必须选 **GitHub Actions**（不要选 main 分支 /root）。
 
 ## 合规说明
 
