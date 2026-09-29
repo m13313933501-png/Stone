@@ -1,0 +1,5 @@
+pyyaml>=6.0
+requests>=2.31
+beautifulsoup4>=4.12
+# 如需抓取 JS 渲染型站点，取消下一行注释，并在 scraper.py 中启用 Playwright 分支
+# playwright>=1.40

@@ -1,0 +1,69 @@
+# 数据源配置（由 crawler/scraper.py 读取）
+# 三种来源：种子企业清单(A) / 聚合站爬取(B) / 开放 API(D)
+
+# A. 种子企业清单：无论如何都会进入数据，保证站点非空
+seed_companies:
+  - name: 字节跳动
+    officialUrl: https://www.bytedance.com
+    industry: 互联网/短视频
+    applyUrl: https://jobs.bytedance.com
+    description: 全球化互联网科技公司。
+  - name: 腾讯
+    officialUrl: https://www.tencent.com
+    industry: 互联网
+    applyUrl: https://join.qq.com
+    description: 社交、游戏、云与数字内容科技集团。
+  - name: 阿里巴巴
+    officialUrl: https://www.alibabagroup.com
+    industry: 互联网/电商
+    applyUrl: https://talent.alibaba.com
+    description: 电商、云计算、数字媒体公司。
+  - name: 华为
+    officialUrl: https://www.huawei.com
+    industry: 通信/硬件
+    applyUrl: https://career.huawei.com
+    description: ICT 基础设施与智能终端提供商。
+  - name: 国家电网
+    officialUrl: http://www.sgcc.com.cn
+    industry: 能源/国企
+    applyUrl: https://zhaopin.sgcc.com.cn
+    description: 电网投资、建设与运营国企。
+  - name: 工商银行
+    officialUrl: https://www.icbc.com.cn
+    industry: 金融/国企
+    applyUrl: https://job.icbc.com.cn
+    description: 国有大型商业银行。
+
+# B. 聚合站爬取：填写对应站点的 CSS 选择器
+# 注意：真实站点结构需自行核对；JS 渲染型站点请改用 Playwright（见 scraper.py 注释）
+aggregation_sites:
+  # 牛客 jobs 中心 —— 已验证：/job/center 服务端渲染 20 张 .job-card-item 卡片
+  # 验证时间 2026-09-29：卡片含 .job-name(岗位) / .company-name(公司) / a.job-message-boxs(详情链接)
+  # 卡片不含截止日期 -> deadline 留空，前端显示"待定"
+  - name: 牛客校招/实习
+    listUrl: https://www.nowcoder.com/job/center
+    enabled: true
+    selectors:
+      card: ".job-card-item"
+      title: ".job-name"
+      company: ".company-name"
+      applyUrl: "a.job-message-boxs::attr(href)"
+  # 实习僧 autumn 频道 —— /autumn 实测为导航外壳页（无岗位数据，内容由 API/JS 动态加载）
+  # 需改为真实列表 URL（如 xiaoyuanzhao.com 校招页）并启用 Playwright 渲染后再开启
+  - name: 实习僧
+    listUrl: https://www.shixiseng.com/autumn
+    enabled: false
+    note: "/autumn 为导航外壳，无静态岗位数据；需定位真实校招列表页并启用 Playwright"
+    selectors:
+      card: ".job-item"
+      title: ".job-name"
+      company: ".company-name"
+      deadline: ".deadline"
+      applyUrl: "a.apply::attr(href)"
+      jd: ".job-desc"
+
+# D. 开放 API（可选，未提供则留空）
+open_api:
+  enabled: false
+  endpoint: ""
+  # 若提供，scraper 会 GET 该 endpoint 并调用 open_api_normalize 映射（需自定义）

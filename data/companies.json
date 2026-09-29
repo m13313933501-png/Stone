@@ -1,0 +1,146 @@
+[
+  {
+    "id": "c1",
+    "name": "字节跳动",
+    "officialUrl": "https://www.bytedance.com",
+    "logo": null,
+    "industry": "互联网/短视频",
+    "description": "全球化互联网科技公司。"
+  },
+  {
+    "id": "c2",
+    "name": "腾讯",
+    "officialUrl": "https://www.tencent.com",
+    "logo": null,
+    "industry": "互联网",
+    "description": "社交、游戏、云与数字内容科技集团。"
+  },
+  {
+    "id": "c3",
+    "name": "阿里巴巴",
+    "officialUrl": "https://www.alibabagroup.com",
+    "logo": null,
+    "industry": "互联网/电商",
+    "description": "电商、云计算、数字媒体公司。"
+  },
+  {
+    "id": "c4",
+    "name": "华为",
+    "officialUrl": "https://www.huawei.com",
+    "logo": null,
+    "industry": "通信/硬件",
+    "description": "ICT 基础设施与智能终端提供商。"
+  },
+  {
+    "id": "c5",
+    "name": "国家电网",
+    "officialUrl": "http://www.sgcc.com.cn",
+    "logo": null,
+    "industry": "能源/国企",
+    "description": "电网投资、建设与运营国企。"
+  },
+  {
+    "id": "c6",
+    "name": "工商银行",
+    "officialUrl": "https://www.icbc.com.cn",
+    "logo": null,
+    "industry": "金融/国企",
+    "description": "国有大型商业银行。"
+  },
+  {
+    "id": "c7",
+    "name": "成都森域星禾科技有限公司",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  },
+  {
+    "id": "c8",
+    "name": "阿里巴巴集团",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  },
+  {
+    "id": "c9",
+    "name": "科大讯飞",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  },
+  {
+    "id": "c10",
+    "name": "SmartX",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  },
+  {
+    "id": "c11",
+    "name": "重庆千里科技股份有限公司",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  },
+  {
+    "id": "c12",
+    "name": "巨一",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  },
+  {
+    "id": "c13",
+    "name": "深圳市普渡科技股份有限公司",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  },
+  {
+    "id": "c14",
+    "name": "极智嘉 Geek+",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  },
+  {
+    "id": "c15",
+    "name": "上海非凸智能科技有限公司",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  },
+  {
+    "id": "c16",
+    "name": "韶音科技",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  },
+  {
+    "id": "c17",
+    "name": "九坤投资",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  },
+  {
+    "id": "c18",
+    "name": "仲望咨询",
+    "officialUrl": null,
+    "logo": null,
+    "industry": "",
+    "description": null
+  }
+]
