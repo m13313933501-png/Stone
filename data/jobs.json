@@ -32611,73 +32611,6 @@
   ]
  },
  {
-  "id": "qz_9a74579f1c26",
-  "companyId": "co_6546f59e",
-  "company": "中国光大银行",
-  "jobTitle": "金融科技岗",
-  "positions": [
-   "金融科技岗",
-   "系统开发方向",
-   "远程服务专员岗",
-   "管理培训生岗",
-   "金融科技类岗位",
-   "市场营销类岗位",
-   "柜面操作类岗位",
-   "其他类岗位",
-   "客户经理岗",
-   "风险管理及内控合规岗",
-   "模型开发岗",
-   "信息科技岗",
-   "业务拓展岗",
-   "风险管理岗",
-   "产......"
-  ],
-  "location": "上海、北京、南京、南宁、厦门、广州、杭州、深圳、石家庄、福州、西宁、西安、郑州、银川、青岛",
-  "industry": "银行金融",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://eoap.cebbank.com/uiap/wt/CEB/zpzh/campus",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "金融科技岗，系统开发方向，远程服务专员岗，管理培训生岗，金融科技类岗位，市场营销类岗位，柜面操作类岗位，其他类岗位，客户经理岗，风险管理及内控合规岗，模型开发岗，信息科技岗，业务拓展岗，风险管理岗，产......",
-  "skills": [
-   "市场营销",
-   "金融"
-  ]
- },
- {
-  "id": "qz_c6acab43ccd9",
-  "companyId": "co_38b8a035",
-  "company": "中国光大银行北京分行",
-  "jobTitle": "市场营销类",
-  "positions": [
-   "市场营销类",
-   "运营柜员类",
-   "金融科技类",
-   "科技支持方向",
-   "客户经理岗"
-  ],
-  "location": "北京",
-  "industry": "银行金融",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://eoap.cebbank.com/uiap/wt/CEB/zpzh/campus",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "市场营销类、运营柜员类、金融科技类、科技支持方向、客户经理岗",
-  "skills": [
-   "运营",
-   "市场营销",
-   "金融"
-  ]
- },
- {
   "id": "qz_f49e2ecec67f",
   "companyId": "co_d12de33f",
   "company": "中国公路车辆机械",
@@ -33920,27 +33853,6 @@
    "能源",
    "电力"
   ]
- },
- {
-  "id": "qz_aac937664ef3",
-  "companyId": "co_f3e3022a",
-  "company": "中国华能",
-  "jobTitle": "中国华能",
-  "positions": [
-   "中国华能"
-  ],
-  "location": "",
-  "industry": "国企/央企",
-  "batch": "",
-  "status": "待确认",
-  "deadline": null,
-  "applyUrl": "https://www.chng.com.cn/",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://raw.githubusercontent.com/jiabaobei/xiaozhao-radar/main/xiaozhao-radar.html、https://raw.githubusercontent.com/Bynlk/JobHunter/main/config/company_urls.json",
-  "verified": false,
-  "jd": "企业官网节点，状态待确认",
-  "skills": []
  },
  {
   "id": "qz_80bb8b23751e",
@@ -67143,6 +67055,30 @@
    "运维",
    "测试",
    "化学"
+  ]
+ },
+ {
+  "id": "qz_05998c8ced47",
+  "companyId": "co_7f962287",
+  "company": "乌鲁木齐银行",
+  "jobTitle": "管理培训生",
+  "positions": [
+   "管理培训生",
+   "综合柜员岗"
+  ],
+  "location": "乌鲁木齐、哈密、喀什、昌吉",
+  "industry": "银行金融",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://hr.boubank.com/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "管理培训生、综合柜员岗",
+  "skills": [
+   "金融"
   ]
  },
  {
@@ -116942,6 +116878,38 @@
   "skills": []
  },
  {
+  "id": "qz_c9292a659428",
+  "companyId": "co_60d2d3f8",
+  "company": "四川眉山天府新区",
+  "jobTitle": "管理岗位（生物与医药类",
+  "positions": [
+   "管理岗位（生物与医药类",
+   "食品加工与安全",
+   "生物医学工程",
+   "生物医学工程类",
+   "食品科学与工程类",
+   "制药工程",
+   "食品安全与健康",
+   "专业不限）"
+  ],
+  "location": "眉山",
+  "industry": "医药医疗",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "http://bm.e21cn.com/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "管理岗位（生物与医药类、食品加工与安全、生物医学工程、生物医学工程类、食品科学与工程类、制药工程、食品安全与健康、专业不限）",
+  "skills": [
+   "安全",
+   "医药",
+   "生物"
+  ]
+ },
+ {
   "id": "qz_11889b3973af",
   "companyId": "co_50f30c67",
   "company": "四川科韵激光科技",
@@ -146050,59 +146018,6 @@
   "verified": false,
   "jd": "阿联酋人事行政岗位；资料员，保管员",
   "skills": []
- },
- {
-  "id": "qz_5bb514d96ed7",
-  "companyId": "co_5cb845c0",
-  "company": "山东能源集团-",
-  "jobTitle": "技能操作岗位:井下岗位化工生产电力生产铁道运输装备制造",
-  "positions": [
-   "技能操作岗位:井下岗位化工生产电力生产铁道运输装备制造"
-  ],
-  "location": "全国、其他、山东",
-  "industry": "装备重工",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://zhaopin.shandong-energy.com/recruit#/portal_job_list?job_class=campus&filter_dict={ \"select_depart\":null}",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "技能操作岗位:井下岗位化工生产电力生产铁道运输装备制造",
-  "skills": [
-   "能源",
-   "电力"
-  ]
- },
- {
-  "id": "qz_28a37a4dcaa5",
-  "companyId": "co_c2dc7242",
-  "company": "山东能源集团—技能操作岗",
-  "jobTitle": "技能操作岗",
-  "positions": [
-   "技能操作岗",
-   "井下岗位",
-   "化工生产",
-   "电力生产",
-   "铁道运输",
-   "装备制造"
-  ],
-  "location": "多地",
-  "industry": "装备重工",
-  "batch": "正式批",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://zhaopin.shandong-energy.com/recruit#/portal_job_list?job_class=campus&filter_dict=%7B%22select_depart%22:null%7D",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://jiabaobei.github.io/xiaozhao-radar/jobs.json",
-  "verified": false,
-  "jd": "技能操作岗  井下岗位  化工生产  电力生产 铁道运输  装备制造",
-  "skills": [
-   "能源",
-   "电力"
-  ]
  },
  {
   "id": "qz_67bf594c0fb5",
@@ -213705,31 +213620,6 @@
   "skills": [
    "人工智能"
   ]
- },
- {
-  "id": "qz_0b15e7286877",
-  "companyId": "co_5c48d824",
-  "company": "浙江文投",
-  "jobTitle": "研学专员",
-  "positions": [
-   "研学专员",
-   "翻译",
-   "英语",
-   "教育学",
-   "旅游管理等相关专业"
-  ],
-  "location": "杭州",
-  "industry": "综合",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://zzrs.zjwentou.com/RedseaPlatform/zhaopin/zpChannelQrCode/society_recruit/officeWebsite.mob",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "研学专员，翻译、英语、教育学、旅游管理等相关专业",
-  "skills": []
  },
  {
   "id": "qz_d319bdfce8cc",
@@ -302497,6 +302387,30 @@
    "采购",
    "硬件",
    "测试"
+  ]
+ },
+ {
+  "id": "qz_85cdfe589f12",
+  "companyId": "co_7c941c27",
+  "company": "高毅资产",
+  "jobTitle": "行业研究员（电新方向）",
+  "positions": [
+   "行业研究员（电新方向）",
+   "人力资源实习生"
+  ],
+  "location": "上海、深圳",
+  "industry": "综合",
+  "batch": "实习",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://gyasset.hotjob.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "行业研究员（电新方向）,人力资源实习生",
+  "skills": [
+   "人力资源"
   ]
  },
  {
