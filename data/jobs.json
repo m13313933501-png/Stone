@@ -28662,35 +28662,6 @@
   "skills": []
  },
  {
-  "id": "qz_745957f717f3",
-  "companyId": "co_054c613c",
-  "company": "中共杭州市委党校萧山区分校",
-  "jobTitle": "教研人员。马克思主义理论类",
-  "positions": [
-   "教研人员。马克思主义理论类",
-   "政治学类",
-   "哲学类",
-   "法学类",
-   "历史学类",
-   "公共管理类",
-   "社会学类",
-   "理论经济学类",
-   "应用经济学类"
-  ],
-  "location": "杭州",
-  "industry": "综合",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://www.xiaoshan.gov.cn/col/col1229893446/art/2026/art_c9cc6e6da1204239b1ea49fbfec91254.html",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "教研人员。马克思主义理论类、政治学类、哲学类、法学类、历史学类、公共管理类、社会学类、理论经济学类、应用经济学类",
-  "skills": []
- },
- {
   "id": "qz_89727f009570",
   "companyId": "co_ee2e8aba",
   "company": "中关村科学城城市大脑",
@@ -33853,6 +33824,27 @@
    "能源",
    "电力"
   ]
+ },
+ {
+  "id": "qz_aac937664ef3",
+  "companyId": "co_f3e3022a",
+  "company": "中国华能",
+  "jobTitle": "中国华能",
+  "positions": [
+   "中国华能"
+  ],
+  "location": "",
+  "industry": "国企/央企",
+  "batch": "",
+  "status": "待确认",
+  "deadline": null,
+  "applyUrl": "https://www.chng.com.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://raw.githubusercontent.com/jiabaobei/xiaozhao-radar/main/xiaozhao-radar.html、https://raw.githubusercontent.com/Bynlk/JobHunter/main/config/company_urls.json",
+  "verified": false,
+  "jd": "企业官网节点，状态待确认",
+  "skills": []
  },
  {
   "id": "qz_80bb8b23751e",
@@ -116878,38 +116870,6 @@
   "skills": []
  },
  {
-  "id": "qz_c9292a659428",
-  "companyId": "co_60d2d3f8",
-  "company": "四川眉山天府新区",
-  "jobTitle": "管理岗位（生物与医药类",
-  "positions": [
-   "管理岗位（生物与医药类",
-   "食品加工与安全",
-   "生物医学工程",
-   "生物医学工程类",
-   "食品科学与工程类",
-   "制药工程",
-   "食品安全与健康",
-   "专业不限）"
-  ],
-  "location": "眉山",
-  "industry": "医药医疗",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "http://bm.e21cn.com/",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "管理岗位（生物与医药类、食品加工与安全、生物医学工程、生物医学工程类、食品科学与工程类、制药工程、食品安全与健康、专业不限）",
-  "skills": [
-   "安全",
-   "医药",
-   "生物"
-  ]
- },
- {
   "id": "qz_11889b3973af",
   "companyId": "co_50f30c67",
   "company": "四川科韵激光科技",
@@ -143506,31 +143466,6 @@
   ]
  },
  {
-  "id": "qz_dbe1cd502966",
-  "companyId": "co_1eac6ef8",
-  "company": "小红书-马当路练习生",
-  "jobTitle": "内容运营方向",
-  "positions": [
-   "内容运营方向",
-   "营销策划方向"
-  ],
-  "location": "上海、北京",
-  "industry": "综合",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://job.xiaohongshu.com/campus/position?positionName=&jobProjects=madang_trainee",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "内容运营方向 营销策划方向",
-  "skills": [
-   "运营",
-   "策划"
-  ]
- },
- {
   "id": "qz_39f2c217fa3d",
   "companyId": "co_7a5d745c",
   "company": "小红书27届「Product Engineer 产品工程师」",
@@ -157184,6 +157119,47 @@
   ]
  },
  {
+  "id": "qz_964fca1de5c6",
+  "companyId": "co_b8fbdf6e",
+  "company": "广西农村合作金融机构",
+  "jobTitle": "市县农合机构基层网点实习岗",
+  "positions": [
+   "市县农合机构基层网点实习岗",
+   "桂盛金科公司信息科技实习岗",
+   "广西农商联合银行职能部门实习岗",
+   "广西农商联合银行新—代数智核心系统项目群实习岗",
+   "市县农合机构基层网点实习岗",
+   "桂盛金科公司信息科技实习岗广西农商联合银行职能部门实习岗广西农商联合银行新代数智核心系统项目群实习岗",
+   "市县农合机构基层网点实习岗",
+   "桂盛金科公司信息科技实习岗",
+   "广西农商联合银行职能部门实习岗",
+   "广西农商联合银行新一代数智核心系统项目群实习岗（法律",
+   "信息科技",
+   "经济类",
+   "金融类",
+   "管理类",
+   "软件工程",
+   "算法",
+   "人工智能......"
+  ],
+  "location": "北海、南宁、各地、崇左、广西、柳州、桂林、梧州、河池、玉林、百色、贺州、钦州、防城港",
+  "industry": "银行金融",
+  "batch": "实习",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://www.gx966888.com/zpsy.jhtml",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://jiabaobei.github.io/xiaozhao-radar/jobs.json、https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "市县农合机构基层网点实习岗  桂盛金科公司信息科技实习岗 广西农商联合银行职能部门实习岗 广西农商联合银行新—代数智核心系统项目群实习岗；市县农合机构基层网点实习岗 桂盛金科公司信息科技实习岗广西农商联合银行职能部门实习岗广西农商联合银行新代数智核心系统项目群实习岗；市县农合机构基层网点实习岗,桂盛金科公司信息科技实习岗,广西农商联合银行职能部门实习岗,广西农商联合银行新一代数智核心系统项目群实习岗（法律、信息科技、经济类、金融类、管理类、软件工程、算法、人工智能......",
+  "skills": [
+   "人工智能",
+   "算法",
+   "金融"
+  ]
+ },
+ {
   "id": "qz_2a76a8b8cfb9",
   "companyId": "co_7307787c",
   "company": "广西农村投资",
@@ -164193,86 +164169,6 @@
   "jd": "AI工程师（MES方向）,自动化工程师,软件开发/实施工程师",
   "skills": [
    "自动化"
-  ]
- },
- {
-  "id": "qz_cd2d0bd08eab",
-  "companyId": "co_b6a7ac2a",
-  "company": "怀化市产业投资",
-  "jobTitle": "管网运维岗",
-  "positions": [
-   "管网运维岗",
-   "市场营销岗",
-   "贸易岗",
-   "数据分析岗",
-   "电气维护岗",
-   "规划设计岗",
-   "一线员工岗"
-  ],
-  "location": "怀化",
-  "industry": "综合",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://zpks.sun-hrm.com/nindex/?ecode=hhtzzp",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "管网运维岗，市场营销岗，贸易岗，数据分析岗，电气维护岗，规划设计岗，一线员工岗",
-  "skills": [
-   "数据分析",
-   "运维",
-   "市场营销",
-   "投资",
-   "电气"
-  ]
- },
- {
-  "id": "qz_b878887a904a",
-  "companyId": "co_ee6feeab",
-  "company": "怀化市城市发展集团",
-  "jobTitle": "财务会计岗",
-  "positions": [
-   "财务会计岗",
-   "工程管理岗",
-   "股权投资岗",
-   "电气工程岗",
-   "金融投资岗",
-   "投资开发岗",
-   "运维开发岗",
-   "数据开发岗",
-   "审计岗1",
-   "审计岗2",
-   "工程技术岗1",
-   "工程技术岗2\\\\会计学",
-   "财务管理",
-   "经济学",
-   "金融学",
-   "风景园林",
-   "土木工程",
-   "......"
-  ],
-  "location": "怀化",
-  "industry": "银行金融",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://zpks.sun-hrm.com/nindex/?ecode=hhscsfz",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "财务会计岗、工程管理岗、股权投资岗、电气工程岗、金融投资岗、投资开发岗、运维开发岗、数据开发岗、审计岗1、审计岗2、工程技术岗1、工程技术岗2\\\\会计学、财务管理、经济学、金融学、风景园林、土木工程、......",
-  "skills": [
-   "运维",
-   "财务",
-   "会计",
-   "金融",
-   "投资",
-   "审计",
-   "电气",
-   "土木"
   ]
  },
  {
@@ -184597,6 +184493,43 @@
   ]
  },
  {
+  "id": "qz_fb2675f71d8c",
+  "companyId": "co_d5d6cbaf",
+  "company": "晋华集成电路",
+  "jobTitle": "研发公益类",
+  "positions": [
+   "研发公益类",
+   "IC设计类",
+   "工程技术类",
+   "生产运营类",
+   "技术支持类",
+   "工艺工程师",
+   "研发工程师",
+   "设备工程师",
+   "版图设计工程师",
+   "良率工程师",
+   "整合工程师",
+   "IC设计类实习生研发整合类实习生产品系统类实习生AI实习生供应链管理实习生",
+   "研发工艺类IC设计类工程技术类运营支持类",
+   "研发工艺类IC设计类工程技术类生产营运类技术支持类"
+  ],
+  "location": "上海、泉州、深圳、福建省泉州市晋江市",
+  "industry": "互联网科技",
+  "batch": "正式批、实习",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://www.jhicc.com/Recruiting/Campus/Index",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://jiabaobei.github.io/xiaozhao-radar/jobs.json、https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "研发公益类  IC设计类  工程技术类 生产运营类 技术支持类；工艺工程师、研发工程师、设备工程师、版图设计工程师、良率工程师、整合工程师；IC设计类实习生研发整合类实习生产品系统类实习生AI实习生供应链管理实习生;；研发工艺类IC设计类工程技术类运营支持类;；研发工艺类IC设计类工程技术类生产营运类技术支持类",
+  "skills": [
+   "运营",
+   "供应链"
+  ]
+ },
+ {
   "id": "qz_5cc682580bf4",
   "companyId": "co_d838df30",
   "company": "晋江农商银行",
@@ -185227,6 +185160,33 @@
    "审计",
    "税务",
    "咨询"
+  ]
+ },
+ {
+  "id": "qz_7f3d9f9d21cd",
+  "companyId": "co_e0350b2f",
+  "company": "普华集成电路",
+  "jobTitle": "IC设计类实习生",
+  "positions": [
+   "IC设计类实习生",
+   "研发整合类实习生",
+   "产品系统类实习生",
+   "AI实习生",
+   "供应链管理实习生"
+  ],
+  "location": "上海",
+  "industry": "装备重工",
+  "batch": "实习",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://www.jhicc.com/Recruiting/Campus/Index?sessionid=",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://jiabaobei.github.io/xiaozhao-radar/jobs.json",
+  "verified": false,
+  "jd": "IC设计类实习生 研发整合类实习生  产品系统类实习生  AI实习生 供应链管理实习生",
+  "skills": [
+   "供应链"
   ]
  },
  {
@@ -213622,6 +213582,31 @@
   ]
  },
  {
+  "id": "qz_0b15e7286877",
+  "companyId": "co_5c48d824",
+  "company": "浙江文投",
+  "jobTitle": "研学专员",
+  "positions": [
+   "研学专员",
+   "翻译",
+   "英语",
+   "教育学",
+   "旅游管理等相关专业"
+  ],
+  "location": "杭州",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://zzrs.zjwentou.com/RedseaPlatform/zhaopin/zpChannelQrCode/society_recruit/officeWebsite.mob",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "研学专员，翻译、英语、教育学、旅游管理等相关专业",
+  "skills": []
+ },
+ {
   "id": "qz_d319bdfce8cc",
   "companyId": "co_614a3596",
   "company": "浙江斐凌工具",
@@ -218018,30 +218003,6 @@
    "嵌入式",
    "硬件",
    "机械"
-  ]
- },
- {
-  "id": "qz_d40ead488778",
-  "companyId": "co_d219da82",
-  "company": "海尼",
-  "jobTitle": "内容运营类",
-  "positions": [
-   "内容运营类",
-   "电商运营类线下运营类产品管理类中后台类"
-  ],
-  "location": "厦门",
-  "industry": "综合",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://recruit.xmhaini.com/",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "内容运营类 电商运营类线下运营类产品管理类中后台类",
-  "skills": [
-   "运营"
   ]
  },
  {
@@ -228205,6 +228166,50 @@
   ]
  },
  {
+  "id": "qz_92b99c78c7a1",
+  "companyId": "co_8039efcc",
+  "company": "湖南高速",
+  "jobTitle": "文字综合岗",
+  "positions": [
+   "文字综合岗",
+   "保密管理岗",
+   "人力资源管理岗",
+   "审计岗",
+   "机电技术岗",
+   "法务岗",
+   "土建技术岗",
+   "安全消防应急岗",
+   "数据分析岗/IT",
+   "技术岗",
+   "贸易业务岗",
+   "金融业务岗",
+   "路线",
+   "路基",
+   "路面设计岗",
+   "桥梁设计岗",
+   "岩土（地质）设计岗......"
+  ],
+  "location": "常德、张家界、怀化、永州、邵阳、重庆、长沙",
+  "industry": "银行金融",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://zhaopin.hngs.net:20443/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "文字综合岗，保密管理岗，人力资源管理岗，审计岗，机电技术岗，法务岗，土建技术岗，安全消防应急岗，数据分析岗/IT 技术岗，贸易业务岗，金融业务岗，路线、路基、路面设计岗，桥梁设计岗，岩土（地质）设计岗......",
+  "skills": [
+   "数据分析",
+   "安全",
+   "金融",
+   "审计",
+   "人力资源",
+   "法务"
+  ]
+ },
+ {
   "id": "qz_5819b41d19eb",
   "companyId": "co_1bdbc508",
   "company": "湖南黄金洞矿业",
@@ -234254,6 +234259,33 @@
   "jd": "财务部实习生",
   "skills": [
    "财务"
+  ]
+ },
+ {
+  "id": "qz_1be26119f639",
+  "companyId": "co_171e0331",
+  "company": "现代投资",
+  "jobTitle": "本次招聘人数共计30人",
+  "positions": [
+   "本次招聘人数共计30人",
+   "具体招聘单位",
+   "岗位",
+   "人数",
+   "专业要求等详见附件《现代投资股份有限公司2026年校园招聘岗位需求表》。"
+  ],
+  "location": "长沙",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://zhaopin.hngs.net:20443/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "本次招聘人数共计30人，具体招聘单位、岗位、人数、专业要求等详见附件《现代投资股份有限公司2026年校园招聘岗位需求表》。",
+  "skills": [
+   "投资"
   ]
  },
  {
@@ -252766,30 +252798,6 @@
    "自动化",
    "机械"
   ]
- },
- {
-  "id": "qz_0a3f44481053",
-  "companyId": "co_aa9e8987",
-  "company": "羊晚",
-  "jobTitle": "经管类",
-  "positions": [
-   "经管类",
-   "融媒类",
-   "经管类等岗位",
-   "经管类融媒类经管类等岗位"
-  ],
-  "location": "广州",
-  "industry": "综合",
-  "batch": "实习",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://job.ycwb.com.cn/ycwb/selectYourChannel",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://jiabaobei.github.io/xiaozhao-radar/jobs.json、https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "经管类  融媒类 经管类等岗位；经管类融媒类经管类等岗位;",
-  "skills": []
  },
  {
   "id": "qz_f06c59ddb78d",
