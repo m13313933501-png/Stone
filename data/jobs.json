@@ -33668,6 +33668,28 @@
   "skills": []
  },
  {
+  "id": "qz_0b293a31b317",
+  "companyId": "co_2995e8ba",
+  "company": "中国医学科学院药用植物研究所",
+  "jobTitle": "本次药植所北京总所计划招聘5名高校毕业生",
+  "positions": [
+   "本次药植所北京总所计划招聘5名高校毕业生",
+   "具体招聘岗位及要求详见附件1。"
+  ],
+  "location": "北京",
+  "industry": "综合",
+  "batch": "",
+  "status": "已截止",
+  "deadline": "2026-02-28",
+  "applyUrl": "https://job.pumc.edu.cn/job/index.html#/?companyCode=1010",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "本次药植所北京总所计划招聘5名高校毕业生,具体招聘岗位及要求详见附件1。",
+  "skills": []
+ },
+ {
   "id": "qz_d7203f52bf46",
   "companyId": "co_0c1a294d",
   "company": "中国医疗器械技术服务",
@@ -42415,6 +42437,178 @@
   ]
  },
  {
+  "id": "qz_2e312d974e90",
+  "companyId": "co_44bd2c35",
+  "company": "中国移动九天公司",
+  "jobTitle": "AI开发岗",
+  "positions": [
+   "AI开发岗",
+   "算法开发岗",
+   "软件开发岗",
+   "平台开发岗",
+   "产品管理岗"
+  ],
+  "location": "北京、广州、深圳、西安",
+  "industry": "互联网科技",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://job.10086.cn/personal/campus/campus_job_list.html?cId=105",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "AI开发岗、算法开发岗、软件开发岗、平台开发岗、产品管理岗",
+  "skills": [
+   "算法"
+  ]
+ },
+ {
+  "id": "qz_115193de64de",
+  "companyId": "co_2153ded6",
+  "company": "中国移动云公司",
+  "jobTitle": "技术类：AlInfra",
+  "positions": [
+   "技术类：AlInfra",
+   "工程师",
+   "AI推理工程师",
+   "AI大模型工程师",
+   "AI",
+   "Agent工程师",
+   "金种子岗位：AI技术研究员",
+   "量子计算技术研究员"
+  ],
+  "location": "苏州",
+  "industry": "互联网科技",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://job.10086.cn/personal/campus/campus_job_list.html?cId=79",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "技术类：AlInfra 工程师、AI推理工程师、AI大模型工程师、AI Agent工程师、金种子岗位：AI技术研究员、量子计算技术研究员",
+  "skills": [
+   "大模型"
+  ]
+ },
+ {
+  "id": "qz_6f33897ad2d3",
+  "companyId": "co_29a0f6f2",
+  "company": "中国移动咪咕",
+  "jobTitle": "研发类",
+  "positions": [
+   "研发类",
+   "产品类",
+   "运营类",
+   "内容类",
+   "市场类",
+   "职能类"
+  ],
+  "location": "上海、北京、成都、杭州、深圳",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://job.10086.cn/personal/campus/campus_job_list.html?cId=85",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "研发类,产品类,运营类,内容类,市场类,职能类",
+  "skills": [
+   "运营"
+  ]
+ },
+ {
+  "id": "qz_519515d685fa",
+  "companyId": "co_b7b61025",
+  "company": "中国移动在线营销服务中心",
+  "jobTitle": "数据分析师",
+  "positions": [
+   "数据分析师",
+   "算法工程师",
+   "需求分析师",
+   "数据智能运营",
+   "产品开发",
+   "数据分析",
+   "HRBP",
+   "互联网运营",
+   "商务拓展",
+   "市场拓展",
+   "运营分析",
+   "技术项目经理",
+   "需求分析",
+   "财务管理",
+   "文字秘书（相关专业：计算机科学与技术",
+   "软件工......"
+  ],
+  "location": "北京、广州",
+  "industry": "互联网科技",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://job.10086.cn/touch/personal/trainee/trainee_job_list.html?cId=83",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "数据分析师,算法工程师,需求分析师,数据智能运营,产品开发,数据分析,HRBP,互联网运营,商务拓展,市场拓展,运营分析,技术项目经理,需求分析,财务管理,文字秘书（相关专业：计算机科学与技术、软件工......",
+  "skills": [
+   "数据分析",
+   "算法",
+   "需求分析",
+   "运营",
+   "财务",
+   "HR",
+   "商务"
+  ]
+ },
+ {
+  "id": "qz_b2de1b619478",
+  "companyId": "co_9ace502c",
+  "company": "中国移动天津公司",
+  "jobTitle": "人工智能研发与运营",
+  "positions": [
+   "人工智能研发与运营",
+   "智算网络研发与运营",
+   "大数据研发与运营",
+   "信息技术研发与运营",
+   "通信网络技术运营",
+   "系统设计与开发",
+   "通信网络技术运营(土木工程类)",
+   "通信网络技术运营(能源工程类)",
+   "通信网络技术运营(电气工程类)",
+   "通信网络技术运营(安全工程类)",
+   "财务类",
+   "法律类"
+  ],
+  "location": "天津",
+  "industry": "能源电力",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://job.10086.cn/personal/campus/campus_job_list.html?cId=5",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "人工智能研发与运营、智算网络研发与运营、大数据研发与运营、信息技术研发与运营、通信网络技术运营、系统设计与开发、通信网络技术运营(土木工程类)、通信网络技术运营(能源工程类)、通信网络技术运营(电气工程类)、通信网络技术运营(安全工程类)、财务类、法律类",
+  "skills": [
+   "人工智能",
+   "安全",
+   "运营",
+   "财务",
+   "通信",
+   "网络",
+   "电气",
+   "土木",
+   "能源",
+   "电力"
+  ]
+ },
+ {
   "id": "qz_761859e8b2eb",
   "companyId": "co_982c3455",
   "company": "中国移动新疆公司",
@@ -42526,6 +42720,100 @@
   "jd": "算法研究员,科创管理研究员,终端开发工程师,数据开发工程师,系统分析工程师,业务平台工程师",
   "skills": [
    "算法"
+  ]
+ },
+ {
+  "id": "qz_9c4955a45194",
+  "companyId": "co_8df95b3f",
+  "company": "中国移动海南公司",
+  "jobTitle": "网络智能运维管理",
+  "positions": [
+   "网络智能运维管理",
+   "算力网络管理",
+   "网络信息安全管理",
+   "智能化应用研发管理"
+  ],
+  "location": "三亚、海口",
+  "industry": "互联网科技",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://job.10086.cn/personal/campus/campus_job_list.html?cId=43",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "网络智能运维管理、算力网络管理、网络信息安全管理、智能化应用研发管理",
+  "skills": [
+   "运维",
+   "安全",
+   "网络"
+  ]
+ },
+ {
+  "id": "qz_f316d6121ef1",
+  "companyId": "co_6f058a91",
+  "company": "中国移动物联网公司",
+  "jobTitle": "金种子计划",
+  "positions": [
+   "金种子计划",
+   "产品类",
+   "软件研发类",
+   "技术类",
+   "硬件研发类",
+   "职能类"
+  ],
+  "location": "北京、南京、广州、成都、武汉、深圳、西安、重庆",
+  "industry": "互联网科技",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://job.10086.cn/personal/campus/campus_job_list.html?cId=77",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "金种子计划,产品类,软件研发类,技术类,硬件研发类,职能类",
+  "skills": [
+   "硬件"
+  ]
+ },
+ {
+  "id": "qz_686aa6a98fe9",
+  "companyId": "co_8431b347",
+  "company": "中国移动终端公司",
+  "jobTitle": "IT管理",
+  "positions": [
+   "IT管理",
+   "渠道管理",
+   "产品经理",
+   "零售管理",
+   "财务管理",
+   "AI算法",
+   "AI硬件产品经理",
+   "通信技术研究员",
+   "项目管理",
+   "销售管理"
+  ],
+  "location": "云南、北京、吉林、山西、广东、江苏、江西、河北、河南、湖北、辽宁、黑龙江",
+  "industry": "快消零售",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://job.10086.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "IT管理、渠道管理、产品经理、零售管理、财务管理、AI算法、AI硬件产品经理、通信技术研究员、项目管理、销售管理",
+  "skills": [
+   "算法",
+   "产品经理",
+   "项目管理",
+   "财务",
+   "销售",
+   "硬件",
+   "通信"
   ]
  },
  {
@@ -85442,6 +85730,30 @@
   ]
  },
  {
+  "id": "qz_9ce5dd86dfda",
+  "companyId": "co_bdfa1841",
+  "company": "北京体育大学",
+  "jobTitle": "专业技术人员",
+  "positions": [
+   "专业技术人员",
+   "专任教师",
+   "教练员",
+   "辅导员"
+  ],
+  "location": "北京",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://www.bsu.edu.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "专业技术人员、专任教师、教练员、辅导员",
+  "skills": []
+ },
+ {
   "id": "qz_1e0952300730",
   "companyId": "co_647f5c18",
   "company": "北京信息科技大学(第二批)",
@@ -101914,6 +102226,28 @@
   "skills": []
  },
  {
+  "id": "qz_1e08734c16aa",
+  "companyId": "co_9e2fd0f7",
+  "company": "南京医科大学",
+  "jobTitle": "人事代理人员",
+  "positions": [
+   "人事代理人员",
+   "学生工作部专职辅导员（专业不限）"
+  ],
+  "location": "南京",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": "2026-03-08",
+  "applyUrl": "https://zp.njmu.edu.cn",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "人事代理人员；学生工作部专职辅导员（专业不限）",
+  "skills": []
+ },
+ {
   "id": "qz_054487816612",
   "companyId": "co_b992d415",
   "company": "南京医科大学友谊整形外科医院",
@@ -115548,46 +115882,6 @@
   "verified": false,
   "jd": "研发技术类技术支持类市场职能类技术类;",
   "skills": []
- },
- {
-  "id": "qz_71b592907bee",
-  "companyId": "co_2db2b3e0",
-  "company": "四川九洲软件有限公司(合并)",
-  "jobTitle": "科技管理",
-  "positions": [
-   "科技管理",
-   "测试工程师",
-   "开发工程师（通信",
-   "电子信息工程",
-   "微电子",
-   "电子信息技术",
-   "网络工程等相关专业",
-   "计算机技术",
-   "信息与计算科学",
-   "大数据管理应用",
-   "软件工程",
-   "控制科学与工程",
-   "机器人工程",
-   "电子信息工程",
-   "数学与应......"
-  ],
-  "location": "绵阳",
-  "industry": "通信运营商",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://gzw.my.gov.cn/mysgzw/c101662/202606/9530a730d14f420fabd012119c2a7a18.shtml",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "科技管理 测试工程师 开发工程师（通信、电子信息工程、微电子、电子信息技术、网络工程等相关专业；计算机技术、信息与计算科学、大数据管理应用、软件工程、控制科学与工程、机器人工程、电子信息工程、数学与应......",
-  "skills": [
-   "运营",
-   "通信",
-   "网络",
-   "测试"
-  ]
  },
  {
   "id": "qz_a585020fb3eb",
@@ -156950,6 +157244,47 @@
   ]
  },
  {
+  "id": "qz_964fca1de5c6",
+  "companyId": "co_b8fbdf6e",
+  "company": "广西农村合作金融机构",
+  "jobTitle": "市县农合机构基层网点实习岗",
+  "positions": [
+   "市县农合机构基层网点实习岗",
+   "桂盛金科公司信息科技实习岗",
+   "广西农商联合银行职能部门实习岗",
+   "广西农商联合银行新—代数智核心系统项目群实习岗",
+   "市县农合机构基层网点实习岗",
+   "桂盛金科公司信息科技实习岗广西农商联合银行职能部门实习岗广西农商联合银行新代数智核心系统项目群实习岗",
+   "市县农合机构基层网点实习岗",
+   "桂盛金科公司信息科技实习岗",
+   "广西农商联合银行职能部门实习岗",
+   "广西农商联合银行新一代数智核心系统项目群实习岗（法律",
+   "信息科技",
+   "经济类",
+   "金融类",
+   "管理类",
+   "软件工程",
+   "算法",
+   "人工智能......"
+  ],
+  "location": "北海、南宁、各地、崇左、广西、柳州、桂林、梧州、河池、玉林、百色、贺州、钦州、防城港",
+  "industry": "银行金融",
+  "batch": "实习",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://www.gx966888.com/zpsy.jhtml",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://jiabaobei.github.io/xiaozhao-radar/jobs.json、https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "市县农合机构基层网点实习岗  桂盛金科公司信息科技实习岗 广西农商联合银行职能部门实习岗 广西农商联合银行新—代数智核心系统项目群实习岗；市县农合机构基层网点实习岗 桂盛金科公司信息科技实习岗广西农商联合银行职能部门实习岗广西农商联合银行新代数智核心系统项目群实习岗；市县农合机构基层网点实习岗,桂盛金科公司信息科技实习岗,广西农商联合银行职能部门实习岗,广西农商联合银行新一代数智核心系统项目群实习岗（法律、信息科技、经济类、金融类、管理类、软件工程、算法、人工智能......",
+  "skills": [
+   "人工智能",
+   "算法",
+   "金融"
+  ]
+ },
+ {
   "id": "qz_2a76a8b8cfb9",
   "companyId": "co_7307787c",
   "company": "广西农村投资",
@@ -157714,51 +158049,6 @@
    "人力资源",
    "物流",
    "法务"
-  ]
- },
- {
-  "id": "qz_56bbfbde1e19",
-  "companyId": "co_10505d67",
-  "company": "广西百色城市产业发展",
-  "jobTitle": "融资专员",
-  "positions": [
-   "融资专员",
-   "软件开发员",
-   "市场专员",
-   "园林绿化设计员",
-   "诉讼专员",
-   "文旅业务专员",
-   "行政专员",
-   "金融学",
-   "会计学",
-   "财务管理",
-   "计算机科学与技术",
-   "软件工程",
-   "网络工程",
-   "信息安全",
-   "物联网工程",
-   "人工智能",
-   "数据科学与大数据技术",
-   "......"
-  ],
-  "location": "百色",
-  "industry": "银行金融",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://bs.gxrc.com/Article/info/1e6b7767-c19e-4228-8324-79716e817285",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "融资专员、软件开发员、市场专员、园林绿化设计员、诉讼专员、文旅业务专员、行政专员、金融学、会计学、财务管理、计算机科学与技术、软件工程、网络工程、信息安全、物联网工程、人工智能、数据科学与大数据技术、......",
-  "skills": [
-   "人工智能",
-   "安全",
-   "财务",
-   "会计",
-   "金融",
-   "网络"
   ]
  },
  {
@@ -194618,46 +194908,6 @@
   "skills": []
  },
  {
-  "id": "qz_8156f5d81768",
-  "companyId": "co_855f0de2",
-  "company": "橙子便利",
-  "jobTitle": "管培生",
-  "positions": [
-   "管培生",
-   "开发加盟专员",
-   "销售专员",
-   "JAVA开发",
-   "WEB开发",
-   "产品经理",
-   "储备店长",
-   "采购专员",
-   "食品研发专员",
-   "私域运营",
-   "营销策划",
-   "人力资源专员"
-  ],
-  "location": "东营、德州、泰安、济南、济宁、淄博、滨州、潍坊、烟台、石家庄、聊城",
-  "industry": "农业食品",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://zp.decent.cn/recruitment_web/weiXin/login/?encodeId=myHMGeXR2ac=",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "管培生,开发加盟专员,销售专员,JAVA开发,WEB开发,产品经理,储备店长,采购专员,食品研发专员,私域运营,营销策划,人力资源专员",
-  "skills": [
-   "Java",
-   "产品经理",
-   "运营",
-   "策划",
-   "人力资源",
-   "采购",
-   "销售"
-  ]
- },
- {
   "id": "qz_5b6d544c0365",
   "companyId": "co_2c00c14d",
   "company": "欢乐童年",
@@ -203766,6 +204016,31 @@
   ]
  },
  {
+  "id": "qz_8fdc17e202fe",
+  "companyId": "co_f94cb452",
+  "company": "江西省交通投资集团(第二批)",
+  "jobTitle": "未提及具体岗位",
+  "positions": [
+   "未提及具体岗位",
+   "详情见招聘简章"
+  ],
+  "location": "南昌",
+  "industry": "交通物流",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "http://www.jxgsgl.com/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "未提及具体岗位 详情见招聘简章",
+  "skills": [
+   "投资",
+   "物流"
+  ]
+ },
+ {
   "id": "qz_a24fad09ffb3",
   "companyId": "co_f08038e4",
   "company": "江西省农业发展",
@@ -204579,38 +204854,6 @@
   "verified": false,
   "jd": "分(支)行综合服务岗(科技类、通用类)",
   "skills": [
-   "金融"
-  ]
- },
- {
-  "id": "qz_daf5ba8f4953",
-  "companyId": "co_34596045",
-  "company": "江西长旅酒店管理",
-  "jobTitle": "校招岗位：行政文秘岗",
-  "positions": [
-   "校招岗位：行政文秘岗",
-   "预算管理岗（相关专业：中国语言文学类",
-   "公共管理类",
-   "新闻传播学类",
-   "教育学类",
-   "会计学",
-   "金融学",
-   "财务管理专业）"
-  ],
-  "location": "南昌",
-  "industry": "银行金融",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://zpks.jxhr.com.cn/nindex/?ecode=jxclsz",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "校招岗位：行政文秘岗 预算管理岗（相关专业：中国语言文学类、公共管理类、新闻传播学类、教育学类、会计学、金融学、财务管理专业）",
-  "skills": [
-   "财务",
-   "会计",
    "金融"
   ]
  },
@@ -207231,34 +207474,6 @@
   "jd": "计划招聘高校毕业生147人，分两个批次开展招聘。第一批次为省市局(公司)机关相关岗位，共13人;第二批次为具级局(营销部、分公司)、物流配送中心相关岗位，共134人。(详见附件1、2)",
   "skills": [
    "物流"
-  ]
- },
- {
-  "id": "qz_493c6cbef07d",
-  "companyId": "co_945975d2",
-  "company": "河北省省直事业单位",
-  "jobTitle": "026年省直事业单位统一招聘工作人员1356名",
-  "positions": [
-   "026年省直事业单位统一招聘工作人员1356名",
-   "各招聘单位招聘人数",
-   "具体岗位",
-   "考试类别",
-   "资格条件",
-   "咨询电话详见《河北省省直事业单位2026年公开招聘（统一招聘）岗位信息表》"
-  ],
-  "location": "全国多地、石家庄",
-  "industry": "综合",
-  "batch": "",
-  "status": "已截止",
-  "deadline": "2026-02-14",
-  "applyUrl": "https://www.hebpta.com.cn",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "026年省直事业单位统一招聘工作人员1356名，各招聘单位招聘人数、具体岗位、考试类别、资格条件、咨询电话详见《河北省省直事业单位2026年公开招聘（统一招聘）岗位信息表》",
-  "skills": [
-   "咨询"
   ]
  },
  {
@@ -217848,6 +218063,30 @@
   ]
  },
  {
+  "id": "qz_d40ead488778",
+  "companyId": "co_d219da82",
+  "company": "海尼",
+  "jobTitle": "内容运营类",
+  "positions": [
+   "内容运营类",
+   "电商运营类线下运营类产品管理类中后台类"
+  ],
+  "location": "厦门",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://recruit.xmhaini.com/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "内容运营类 电商运营类线下运营类产品管理类中后台类",
+  "skills": [
+   "运营"
+  ]
+ },
+ {
   "id": "qz_9e96a2dcb5a3",
   "companyId": "co_b558c427",
   "company": "海峡通讯",
@@ -223666,6 +223905,44 @@
   "skills": [
    "医药",
    "生物"
+  ]
+ },
+ {
+  "id": "qz_3fdda2509f30",
+  "companyId": "co_18d988b8",
+  "company": "深城交",
+  "jobTitle": "科研(科研研究",
+  "positions": [
+   "科研(科研研究",
+   "算法",
+   "软件",
+   "硬件等岗位)IT(算法",
+   "软件",
+   "硬件",
+   "数据治理",
+   "解决方案",
+   "产品经理",
+   "U/u设计师等岗位)交通运输与工程(智能交通道路工程设计",
+   "工程项目管理",
+   "基础设施健康监测等岗位"
+  ],
+  "location": "(新加坡、东莞、北京、南京、南昌、合肥、广州、成都、昆明、浙江、海口、海外、深圳、湛江、福州、长沙、阿联......、青岛、香港",
+  "industry": "交通物流",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://sutpc.hotjob.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "科研(科研研究、算法、软件、硬件等岗位)IT(算法、软件、硬件、数据治理、解决方案、产品经理、U/u设计师等岗位)交通运输与工程(智能交通道路工程设计、工程项目管理、基础设施健康监测等岗位",
+  "skills": [
+   "算法",
+   "产品经理",
+   "项目管理",
+   "物流",
+   "硬件"
   ]
  },
  {
@@ -249137,6 +249414,85 @@
   ]
  },
  {
+  "id": "qz_2faa3b48961c",
+  "companyId": "co_4dc1b59e",
+  "company": "紫金山实验",
+  "jobTitle": "博士后研究岗(未来网络",
+  "positions": [
+   "博士后研究岗(未来网络",
+   "内生安全",
+   "前沿交叉",
+   "普适通信)",
+   "研究岗/博士后研究岗(无线电算法方向",
+   "天线射频测试算法方向",
+   "电磁仿真算法方向",
+   "通信信道模拟器硬件算法方向",
+   "信道测量方向)",
+   "测试开发岗(卫星通信测......"
+  ],
+  "location": "南京",
+  "industry": "通信运营商",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://xy.liepin.com/pmlabs/zhaopin.html?zhaopin_3",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "博士后研究岗(未来网络、内生安全、前沿交叉、普适通信);研究岗/博士后研究岗(无线电算法方向、天线射频测试算法方向、电磁仿真算法方向、通信信道模拟器硬件算法方向、信道测量方向);测试开发岗(卫星通信测......",
+  "skills": [
+   "算法",
+   "安全",
+   "运营",
+   "硬件",
+   "通信",
+   "网络",
+   "测试"
+  ]
+ },
+ {
+  "id": "qz_cafc0b12ac02",
+  "companyId": "co_aff691ce",
+  "company": "紫金山实验室",
+  "jobTitle": "未来网络研究中心",
+  "positions": [
+   "未来网络研究中心",
+   "网络体系架构",
+   "确定性网络",
+   "智算网络",
+   "空间卫星网络",
+   "光电融合网络",
+   "网络大模型",
+   "网络智能体",
+   "数字孪生网络",
+   "算网融合",
+   "普适通信研究中心",
+   "6G",
+   "新型无线传输",
+   "6G",
+   "通感智算控融合",
+   "毫米波与太......"
+  ],
+  "location": "南京",
+  "industry": "通信运营商",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://xy.liepin.com/pmlabs/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "未来网络研究中心 网络体系架构、确定性网络、智算网络、空间卫星网络、光电融合网络、网络大模型、网络智能体、数字孪生网络、算网融合 普适通信研究中心 6G 新型无线传输、6G 通感智算控融合、毫米波与太......",
+  "skills": [
+   "大模型",
+   "运营",
+   "通信",
+   "网络"
+  ]
+ },
+ {
   "id": "qz_6357edd7f9b9",
   "companyId": "co_ebbaaaca",
   "company": "紫金矿业",
@@ -250950,79 +251306,6 @@
   "jd": "大学生金融训练营(相关专业：金融学类、财政学类）",
   "skills": [
    "金融"
-  ]
- },
- {
-  "id": "qz_b447c9cc64b1",
-  "companyId": "co_18e2a2c1",
-  "company": "绵阳市人力资源和社会保障局",
-  "jobTitle": "就业社保服务专员",
-  "positions": [
-   "就业社保服务专员",
-   "常态化帮扶专员",
-   "基层应急管理辅助员",
-   "养老服务助理",
-   "文旅融合发展服务助理",
-   "市场综合监管辅助员",
-   "司法行政助理",
-   "金融服务专员",
-   "社会工作服务岗",
-   "不限",
-   "旅游类",
-   "艺术设计类",
-   "表演艺术类",
-   "文化服务类",
-   "新闻出版类",
-   "广播影视类",
-   "旅游管理类",
-   "历史学类",
-   "艺术学理论类",
-   "音乐与舞蹈学类",
-   "戏剧与影视学类",
-   "美术学类",
-   "设计学类",
-   "图书情报与档案管理类",
-   "新闻传播学类",
-   "旅游管理",
-   "博物馆",
-   "文物",
-   "中国史",
-   "世界史",
-   "考古学",
-   "艺术学",
-   "音乐",
-   "舞蹈",
-   "戏剧与影视",
-   "美术与书法",
-   "设计学",
-   "设计",
-   "信息资源管理",
-   "图书情报",
-   "新闻与传播",
-   "出版",
-   "法律实务类",
-   "法律执行类",
-   "司法技术类",
-   "法学类",
-   "法学",
-   "法律",
-   "纪检监察学",
-   "知识产权"
-  ],
-  "location": "绵阳",
-  "industry": "银行金融",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://bm.e21cn.com/?str=my",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "就业社保服务专员,常态化帮扶专员,基层应急管理辅助员,养老服务助理,文旅融合发展服务助理,市场综合监管辅助员,司法行政助理,金融服务专员,社会工作服务岗，不限,旅游类,艺术设计类,表演艺术类,文化服务类,新闻出版类,广播影视类,旅游管理类,历史学类,艺术学理论类,音乐与舞蹈学类,戏剧与影视学类,美术学类,设计学类,图书情报与档案管理类,新闻传播学类,旅游管理,博物馆,文物,中国史,世界史,考古学,艺术学,音乐,舞蹈,戏剧与影视,美术与书法,设计学,设计,信息资源管理,图书情报,新闻与传播,出版,法律实务类,法律执行类,司法技术类,法学类,法学,法律,纪检监察学,知识产权",
-  "skills": [
-   "金融",
-   "人力资源"
   ]
  },
  {
@@ -282721,52 +283004,6 @@
   "skills": []
  },
  {
-  "id": "qz_01c759a39b8a",
-  "companyId": "co_755c1502",
-  "company": "通州区教委所属事业单位",
-  "jobTitle": "专业技术岗（课程与教学论",
-  "positions": [
-   "专业技术岗（课程与教学论",
-   "教育学（物理方向）",
-   "物理学",
-   "地球物理学",
-   "力学",
-   "航空宇航科学与技术",
-   "体育教育",
-   "运动训练",
-   "武术与民族传统体育",
-   "体能训练",
-   "体育教育训练学",
-   "体育教学",
-   "教育技术学",
-   "计算机科学与技术",
-   "哲......",
-   "小学初中高中各学科教师（相关专业：教育学（英语方向）",
-   "外国语言文学（英语方向）",
-   "翻译（英语方向）",
-   "哲学",
-   "法学",
-   "政治学",
-   "马克思主义理论",
-   "中共党史党建学",
-   "课程与教学论（思政方向）",
-   "学科教学（思政）",
-   "数学类......"
-  ],
-  "location": "北京",
-  "industry": "综合",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://zhaopin.bjtzeduyun.com/P002/#/notice/index?projectId=11H8E31EHS",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "专业技术岗（课程与教学论，教育学（物理方向），物理学，地球物理学，力学，航空宇航科学与技术，体育教育，运动训练，武术与民族传统体育，体能训练，体育教育训练学，体育教学，教育技术学，计算机科学与技术，哲......；小学初中高中各学科教师（相关专业：教育学（英语方向）、外国语言文学（英语方向）、翻译（英语方向）、哲学、法学、政治学、马克思主义理论、中共党史党建学、课程与教学论（思政方向）、学科教学（思政）、数学类......",
-  "skills": []
- },
- {
   "id": "qz_973eaa4b68f4",
   "companyId": "co_4b18c37a",
   "company": "通怡投资",
@@ -285809,6 +286046,51 @@
    "算法",
    "通信",
    "测试"
+  ]
+ },
+ {
+  "id": "qz_481aa6a962e0",
+  "companyId": "co_dd71053d",
+  "company": "重庆西部人力资源开发研究院",
+  "jobTitle": "助理研究员岗",
+  "positions": [
+   "助理研究员岗",
+   "1",
+   "助理研究员岗",
+   "2",
+   "理科文字编辑岗\\\\会计",
+   "金融",
+   "财务管理",
+   "法学",
+   "法律",
+   "机械工程",
+   "机电一体化",
+   "自动化",
+   "计算机科学与技术",
+   "软件工程",
+   "人工智能",
+   "大数据",
+   "理工科大类"
+  ],
+  "location": "重庆",
+  "industry": "银行金融",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://cq.easyzp.com/index.php/exam/?EXAMID=4297",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "助理研究员岗 1、助理研究员岗 2、理科文字编辑岗\\\\会计、金融、财务管理、法学、法律、机械工程、机电一体化、自动化、计算机科学与技术、软件工程、人工智能、大数据、理工科大类",
+  "skills": [
+   "人工智能",
+   "财务",
+   "会计",
+   "金融",
+   "人力资源",
+   "自动化",
+   "机械"
   ]
  },
  {
@@ -302131,30 +302413,6 @@
    "采购",
    "硬件",
    "测试"
-  ]
- },
- {
-  "id": "qz_85cdfe589f12",
-  "companyId": "co_7c941c27",
-  "company": "高毅资产",
-  "jobTitle": "行业研究员（电新方向）",
-  "positions": [
-   "行业研究员（电新方向）",
-   "人力资源实习生"
-  ],
-  "location": "上海、深圳",
-  "industry": "综合",
-  "batch": "实习",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://gyasset.hotjob.cn/",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "行业研究员（电新方向）,人力资源实习生",
-  "skills": [
-   "人力资源"
   ]
  },
  {
