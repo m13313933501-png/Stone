@@ -33849,6 +33849,27 @@
   ]
  },
  {
+  "id": "qz_aac937664ef3",
+  "companyId": "co_f3e3022a",
+  "company": "中国华能",
+  "jobTitle": "中国华能",
+  "positions": [
+   "中国华能"
+  ],
+  "location": "",
+  "industry": "国企/央企",
+  "batch": "",
+  "status": "待确认",
+  "deadline": null,
+  "applyUrl": "https://www.chng.com.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://raw.githubusercontent.com/jiabaobei/xiaozhao-radar/main/xiaozhao-radar.html、https://raw.githubusercontent.com/Bynlk/JobHunter/main/config/company_urls.json",
+  "verified": false,
+  "jd": "企业官网节点，状态待确认",
+  "skills": []
+ },
+ {
   "id": "qz_80bb8b23751e",
   "companyId": "co_87676207",
   "company": "中国南方电网",
@@ -37927,6 +37948,51 @@
   "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K、https://raw.githubusercontent.com/jiabaobei/xiaozhao-radar/main/xiaozhao-radar.html",
   "verified": false,
   "jd": "下属单位岗位，具体见投递方式链接;；企业官网节点，状态待确认",
+  "skills": []
+ },
+ {
+  "id": "qz_2ecddcaa1b29",
+  "companyId": "co_cfe79aeb",
+  "company": "中国消防救援学院",
+  "jobTitle": "教师岗1",
+  "positions": [
+   "教师岗1",
+   "教师岗",
+   "2",
+   "教师岗",
+   "3",
+   "教师岗",
+   "4",
+   "教师岗",
+   "5",
+   "教师岗",
+   "6",
+   "教师岗",
+   "7",
+   "教师岗",
+   "8",
+   "教师岗",
+   "9",
+   "教师岗",
+   "10",
+   "教师岗",
+   "11",
+   "教辅岗（俄语语言文学",
+   "俄语笔译",
+   "俄语口译",
+   "系统......"
+  ],
+  "location": "北京",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://recruit.cfri.edu.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "教师岗1,教师岗 2, 教师岗 3, 教师岗 4, 教师岗 5, 教师岗 6, 教师岗 7, 教师岗 8, 教师岗 9, 教师岗 10, 教师岗 11, 教辅岗（俄语语言文学，俄语笔译，俄语口译，系统......",
   "skills": []
  },
  {
@@ -51851,6 +51917,37 @@
   ]
  },
  {
+  "id": "qz_720ca7bbbd2d",
+  "companyId": "co_3a82e944",
+  "company": "中国黄金",
+  "jobTitle": "校招岗位：选矿业务专员",
+  "positions": [
+   "校招岗位：选矿业务专员",
+   "采矿业务专员",
+   "职能部门业务专员",
+   "采矿技术员",
+   "选矿技术员",
+   "地质技术员",
+   "安全技术员",
+   "财会类",
+   "法律类"
+  ],
+  "location": "北京、天水、延边、拉萨、锡林郭勒、阜新、黄石",
+  "industry": "国企/央企",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://hjzp.chinagoldgroup.com/recruit#/index",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K、https://raw.githubusercontent.com/jiabaobei/xiaozhao-radar/main/xiaozhao-radar.html、https://raw.githubusercontent.com/Bynlk/JobHunter/main/config/company_urls.json",
+  "verified": false,
+  "jd": "校招岗位：选矿业务专员、采矿业务专员、职能部门业务专员、采矿技术员、选矿技术员、地质技术员、安全技术员；财会类、法律类；企业官网节点，状态待确认",
+  "skills": [
+   "安全"
+  ]
+ },
+ {
   "id": "qz_b1bcd70d5b68",
   "companyId": "co_a7e49ab2",
   "company": "中地国际工程",
@@ -60929,6 +61026,27 @@
   ]
  },
  {
+  "id": "qz_49df64df6782",
+  "companyId": "co_dfe051e8",
+  "company": "中航工业",
+  "jobTitle": "中航工业",
+  "positions": [
+   "中航工业"
+  ],
+  "location": "",
+  "industry": "综合",
+  "batch": "",
+  "status": "待确认",
+  "deadline": null,
+  "applyUrl": "https://www.avic.com/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://raw.githubusercontent.com/jiabaobei/xiaozhao-radar/main/xiaozhao-radar.html",
+  "verified": false,
+  "jd": "企业官网节点，状态待确认",
+  "skills": []
+ },
+ {
   "id": "qz_fe65d63131e6",
   "companyId": "co_0daf7664",
   "company": "中航工程集成设备",
@@ -67037,6 +67155,30 @@
    "运维",
    "测试",
    "化学"
+  ]
+ },
+ {
+  "id": "qz_05998c8ced47",
+  "companyId": "co_7f962287",
+  "company": "乌鲁木齐银行",
+  "jobTitle": "管理培训生",
+  "positions": [
+   "管理培训生",
+   "综合柜员岗"
+  ],
+  "location": "乌鲁木齐、哈密、喀什、昌吉",
+  "industry": "银行金融",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://hr.boubank.com/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "管理培训生、综合柜员岗",
+  "skills": [
+   "金融"
   ]
  },
  {
@@ -116966,6 +117108,45 @@
   ]
  },
  {
+  "id": "qz_dea6e3892c0c",
+  "companyId": "co_7e28c703",
+  "company": "四川能投发展",
+  "jobTitle": "市场化交易岗",
+  "positions": [
+   "市场化交易岗",
+   "继电保护岗",
+   "供电所客服经理岗",
+   "供电所运检员（校招）",
+   "生产技术岗",
+   "调度值班员",
+   "集控站维操员",
+   "台区经理",
+   "营销综合岗",
+   "电力技术岗",
+   "电力工程岗",
+   "安全环保监察岗",
+   "安全岗",
+   "调度运行值班员",
+   "集控站值班......"
+  ],
+  "location": "宜宾",
+  "industry": "能源电力",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://scntfz-candidate.scwlhyy.com/h5/login?redirect=/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "市场化交易岗、继电保护岗、供电所客服经理岗、供电所运检员（校招）、生产技术岗、调度值班员、集控站维操员、台区经理、营销综合岗、电力技术岗、电力工程岗、安全环保监察岗、安全岗、调度运行值班员、集控站值班......",
+  "skills": [
+   "安全",
+   "能源",
+   "电力"
+  ]
+ },
+ {
   "id": "qz_e3aa813fa04e",
   "companyId": "co_aa10c712",
   "company": "四川腾盾科创",
@@ -119385,6 +119566,45 @@
    "测试",
    "自动化",
    "机械"
+  ]
+ },
+ {
+  "id": "qz_e81c8639d747",
+  "companyId": "co_d95cc3a8",
+  "company": "国家林业和草原局直属单位",
+  "jobTitle": "管理岗",
+  "positions": [
+   "管理岗",
+   "专业技术岗（专业要求：生物学类",
+   "生态学类",
+   "农业资源与环境类",
+   "林学类",
+   "园艺学类",
+   "森林保护学",
+   "植物保护类",
+   "森林经理学",
+   "野生动植物保护与利用",
+   "植物学",
+   "经济林学",
+   "畜牧学类",
+   "化学工程与技术类",
+   "材料科学与......"
+  ],
+  "location": "三亚、凭祥、北京、南京、南宁、合肥、巴彦淖尔、广州、成都、新余、昆明、沈阳、湛江、黄山",
+  "industry": "农业食品",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://gkzp.forestry.gov.cn/LYJBM/xxfw/portal/index.jsp",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "管理岗、专业技术岗（专业要求：生物学类、生态学类、农业资源与环境类、林学类、园艺学类、森林保护学、植物保护类、森林经理学、野生动植物保护与利用、植物学、经济林学、畜牧学类、化学工程与技术类、材料科学与......",
+  "skills": [
+   "生物",
+   "化学",
+   "材料"
   ]
  },
  {
@@ -130061,6 +130281,44 @@
   ]
  },
  {
+  "id": "qz_d7f613c0aa79",
+  "companyId": "co_75d09f55",
+  "company": "天津市宁河区教育系统",
+  "jobTitle": "语文教师",
+  "positions": [
+   "语文教师",
+   "数学教师",
+   "英语教师",
+   "物理教师",
+   "化学教师",
+   "地理教师",
+   "生物教师",
+   "思政教师",
+   "体育教师",
+   "道德与法治教师（专业要求：课程与教学论（语文）",
+   "学科教学（语文）",
+   "中国语言文学类",
+   "汉语国际教育",
+   "国际中文教育",
+   "......"
+  ],
+  "location": "天津",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://www.tjtalents.com.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "语文教师、数学教师、英语教师、物理教师、化学教师、地理教师、生物教师、思政教师、体育教师、道德与法治教师（专业要求：课程与教学论（语文）、学科教学（语文）、中国语言文学类、汉语国际教育、国际中文教育、......",
+  "skills": [
+   "生物",
+   "化学"
+  ]
+ },
+ {
   "id": "qz_71a8a0d8ba94",
   "companyId": "co_6105ea14",
   "company": "天津市应急管理科学技术研究院",
@@ -130146,6 +130404,73 @@
   ]
  },
  {
+  "id": "qz_8f9b58749c5c",
+  "companyId": "co_cf941a5c",
+  "company": "天津市新华中学",
+  "jobTitle": "数学教师",
+  "positions": [
+   "数学教师",
+   "物理教师",
+   "化学教师",
+   "生物教师",
+   "信息技术教师"
+  ],
+  "location": "天津",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://www.tjtalents.com.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "数学教师,物理教师,化学教师,生物教师,信息技术教师",
+  "skills": [
+   "生物",
+   "化学"
+  ]
+ },
+ {
+  "id": "qz_50149b6b57ff",
+  "companyId": "co_89819b95",
+  "company": "天津市武清区",
+  "jobTitle": "财务管理",
+  "positions": [
+   "财务管理",
+   "职工服务",
+   "环境卫生管理",
+   "信息化",
+   "施工现场大型起重机械等设备的检查",
+   "住房和建设领域法务",
+   "殡仪服务",
+   "公证员",
+   "投诉举报",
+   "农村发展服务",
+   "动物防疫",
+   "农业病虫害监测防治",
+   "农产品质量安全检测",
+   "农机推广服务......"
+  ],
+  "location": "天津",
+  "industry": "农业食品",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "http://www.tjtalents.com.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "财务管理、职工服务、环境卫生管理、信息化、施工现场大型起重机械等设备的检查、住房和建设领域法务、殡仪服务、公证员、投诉举报、农村发展服务、动物防疫、农业病虫害监测防治、农产品质量安全检测、农机推广服务......",
+  "skills": [
+   "安全",
+   "财务",
+   "法务",
+   "机械"
+  ]
+ },
+ {
   "id": "qz_2639dbf9c306",
   "companyId": "co_501d7384",
   "company": "天津市滨海新区融华消防职业培训学校",
@@ -130191,6 +130516,47 @@
   "verified": false,
   "jd": "共招聘28人招聘单位、岗位、专业、学历等要求详见官方公告及投递方式链接",
   "skills": []
+ },
+ {
+  "id": "qz_f528579e39a2",
+  "companyId": "co_08198cd7",
+  "company": "天津市纪委监委所属事业单位",
+  "jobTitle": "岗位",
+  "positions": [
+   "岗位",
+   "1（专技岗十二级）",
+   "岗位",
+   "2（管理岗九级）",
+   "岗位",
+   "3（专技岗十二级）（法学类",
+   "心理学类",
+   "计算机类",
+   "临床医学类",
+   "法学",
+   "法律",
+   "心理学",
+   "应用心理",
+   "计算机科学与技术",
+   "临床医学",
+   "数学类",
+   "统计学类",
+   "会计学",
+   "......"
+  ],
+  "location": "天津",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://www.tjtalents.com.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "岗位 1（专技岗十二级）、岗位 2（管理岗九级）、岗位 3（专技岗十二级）（法学类，心理学类，计算机类，临床医学类，法学，法律，心理学，应用心理，计算机科学与技术，临床医学，数学类，统计学类，会计学，......",
+  "skills": [
+   "会计"
+  ]
  },
  {
   "id": "qz_2340962a4870",
@@ -130271,6 +130637,36 @@
   "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
   "verified": false,
   "jd": "党群工作部干事；工程造价\\\\工程造价、工程管理等相关专业",
+  "skills": []
+ },
+ {
+  "id": "qz_fd0728062e84",
+  "companyId": "co_78332e15",
+  "company": "天津市静海区事业单位",
+  "jobTitle": "专技岗十二级及以下1",
+  "positions": [
+   "专技岗十二级及以下1",
+   "专技岗十二级及以下2",
+   "专技岗十二级及以下",
+   "管理岗九级及以下",
+   "管理岗九级及以下1",
+   "管理岗九级及以下2",
+   "专技岗十二级及以下1",
+   "专技岗十二级及以下2",
+   "专技岗十二级及以下3",
+   "专技岗十二级......"
+  ],
+  "location": "天津",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://www.tjtalents.com.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "专技岗十二级及以下1 专技岗十二级及以下2 专技岗十二级及以下 管理岗九级及以下 管理岗九级及以下1 管理岗九级及以下2 专技岗十二级及以下1 专技岗十二级及以下2 专技岗十二级及以下3 专技岗十二级......",
   "skills": []
  },
  {
@@ -142227,6 +142623,27 @@
   "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
   "verified": false,
   "jd": "[业互联网类、研发类、技术类、管理类、职能类、市场类",
+  "skills": []
+ },
+ {
+  "id": "qz_f951f97dde1d",
+  "companyId": "co_6f81231f",
+  "company": "富士康科技",
+  "jobTitle": "研发类工业互联网类市场类职能类管理类技术类",
+  "positions": [
+   "研发类工业互联网类市场类职能类管理类技术类"
+  ],
+  "location": "深圳天津威海重庆上海成都广州",
+  "industry": "互联网科技",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://foxconn.hotjob.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "研发类工业互联网类市场类职能类管理类技术类",
   "skills": []
  },
  {
@@ -156942,6 +157359,47 @@
    "人力资源",
    "机械",
    "电气"
+  ]
+ },
+ {
+  "id": "qz_964fca1de5c6",
+  "companyId": "co_b8fbdf6e",
+  "company": "广西农村合作金融机构",
+  "jobTitle": "市县农合机构基层网点实习岗",
+  "positions": [
+   "市县农合机构基层网点实习岗",
+   "桂盛金科公司信息科技实习岗",
+   "广西农商联合银行职能部门实习岗",
+   "广西农商联合银行新—代数智核心系统项目群实习岗",
+   "市县农合机构基层网点实习岗",
+   "桂盛金科公司信息科技实习岗广西农商联合银行职能部门实习岗广西农商联合银行新代数智核心系统项目群实习岗",
+   "市县农合机构基层网点实习岗",
+   "桂盛金科公司信息科技实习岗",
+   "广西农商联合银行职能部门实习岗",
+   "广西农商联合银行新一代数智核心系统项目群实习岗（法律",
+   "信息科技",
+   "经济类",
+   "金融类",
+   "管理类",
+   "软件工程",
+   "算法",
+   "人工智能......"
+  ],
+  "location": "北海、南宁、各地、崇左、广西、柳州、桂林、梧州、河池、玉林、百色、贺州、钦州、防城港",
+  "industry": "银行金融",
+  "batch": "实习",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://www.gx966888.com/zpsy.jhtml",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://jiabaobei.github.io/xiaozhao-radar/jobs.json、https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "市县农合机构基层网点实习岗  桂盛金科公司信息科技实习岗 广西农商联合银行职能部门实习岗 广西农商联合银行新—代数智核心系统项目群实习岗；市县农合机构基层网点实习岗 桂盛金科公司信息科技实习岗广西农商联合银行职能部门实习岗广西农商联合银行新代数智核心系统项目群实习岗；市县农合机构基层网点实习岗,桂盛金科公司信息科技实习岗,广西农商联合银行职能部门实习岗,广西农商联合银行新一代数智核心系统项目群实习岗（法律、信息科技、经济类、金融类、管理类、软件工程、算法、人工智能......",
+  "skills": [
+   "人工智能",
+   "算法",
+   "金融"
   ]
  },
  {
@@ -207125,35 +207583,6 @@
   ]
  },
  {
-  "id": "qz_ee16211dfea1",
-  "companyId": "co_c91b69e8",
-  "company": "河北移动",
-  "jobTitle": "技术大咖类:系统架构师",
-  "positions": [
-   "技术大咖类:系统架构师",
-   "通信网络运维工程师",
-   "行业解决方案经理产品运营类:数字产品智慧运营市场拓展类:网格经理",
-   "客户经理"
-  ],
-  "location": "唐山、廊坊、张家口、承德、石家庄、秦皇岛、雄",
-  "industry": "通信运营商",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://zhaopin.he.chinamobile.com/job/ZpIndex/jobs#jobs",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "技术大咖类:系统架构师、通信网络运维工程师、行业解决方案经理产品运营类:数字产品智慧运营市场拓展类:网格经理、客户经理",
-  "skills": [
-   "运维",
-   "运营",
-   "通信",
-   "网络"
-  ]
- },
- {
   "id": "qz_570428513a48",
   "companyId": "co_9c49c546",
   "company": "河北移动雄安公司",
@@ -213285,6 +213714,31 @@
   "skills": [
    "人工智能"
   ]
+ },
+ {
+  "id": "qz_0b15e7286877",
+  "companyId": "co_5c48d824",
+  "company": "浙江文投",
+  "jobTitle": "研学专员",
+  "positions": [
+   "研学专员",
+   "翻译",
+   "英语",
+   "教育学",
+   "旅游管理等相关专业"
+  ],
+  "location": "杭州",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://zzrs.zjwentou.com/RedseaPlatform/zhaopin/zpChannelQrCode/society_recruit/officeWebsite.mob",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "研学专员，翻译、英语、教育学、旅游管理等相关专业",
+  "skills": []
  },
  {
   "id": "qz_d319bdfce8cc",
@@ -250705,79 +251159,6 @@
   ]
  },
  {
-  "id": "qz_b447c9cc64b1",
-  "companyId": "co_18e2a2c1",
-  "company": "绵阳市人力资源和社会保障局",
-  "jobTitle": "就业社保服务专员",
-  "positions": [
-   "就业社保服务专员",
-   "常态化帮扶专员",
-   "基层应急管理辅助员",
-   "养老服务助理",
-   "文旅融合发展服务助理",
-   "市场综合监管辅助员",
-   "司法行政助理",
-   "金融服务专员",
-   "社会工作服务岗",
-   "不限",
-   "旅游类",
-   "艺术设计类",
-   "表演艺术类",
-   "文化服务类",
-   "新闻出版类",
-   "广播影视类",
-   "旅游管理类",
-   "历史学类",
-   "艺术学理论类",
-   "音乐与舞蹈学类",
-   "戏剧与影视学类",
-   "美术学类",
-   "设计学类",
-   "图书情报与档案管理类",
-   "新闻传播学类",
-   "旅游管理",
-   "博物馆",
-   "文物",
-   "中国史",
-   "世界史",
-   "考古学",
-   "艺术学",
-   "音乐",
-   "舞蹈",
-   "戏剧与影视",
-   "美术与书法",
-   "设计学",
-   "设计",
-   "信息资源管理",
-   "图书情报",
-   "新闻与传播",
-   "出版",
-   "法律实务类",
-   "法律执行类",
-   "司法技术类",
-   "法学类",
-   "法学",
-   "法律",
-   "纪检监察学",
-   "知识产权"
-  ],
-  "location": "绵阳",
-  "industry": "银行金融",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://bm.e21cn.com/?str=my",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "就业社保服务专员,常态化帮扶专员,基层应急管理辅助员,养老服务助理,文旅融合发展服务助理,市场综合监管辅助员,司法行政助理,金融服务专员,社会工作服务岗，不限,旅游类,艺术设计类,表演艺术类,文化服务类,新闻出版类,广播影视类,旅游管理类,历史学类,艺术学理论类,音乐与舞蹈学类,戏剧与影视学类,美术学类,设计学类,图书情报与档案管理类,新闻传播学类,旅游管理,博物馆,文物,中国史,世界史,考古学,艺术学,音乐,舞蹈,戏剧与影视,美术与书法,设计学,设计,信息资源管理,图书情报,新闻与传播,出版,法律实务类,法律执行类,司法技术类,法学类,法学,法律,纪检监察学,知识产权",
-  "skills": [
-   "金融",
-   "人力资源"
-  ]
- },
- {
   "id": "qz_c81a332ca688",
   "companyId": "co_b7640c6b",
   "company": "绵阳惠科科技",
@@ -252254,30 +252635,6 @@
    "自动化",
    "机械"
   ]
- },
- {
-  "id": "qz_0a3f44481053",
-  "companyId": "co_aa9e8987",
-  "company": "羊晚",
-  "jobTitle": "经管类",
-  "positions": [
-   "经管类",
-   "融媒类",
-   "经管类等岗位",
-   "经管类融媒类经管类等岗位"
-  ],
-  "location": "广州",
-  "industry": "综合",
-  "batch": "实习",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://job.ycwb.com.cn/ycwb/selectYourChannel",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://jiabaobei.github.io/xiaozhao-radar/jobs.json、https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "经管类  融媒类 经管类等岗位；经管类融媒类经管类等岗位;",
-  "skills": []
  },
  {
   "id": "qz_c133c2d11171",
@@ -260854,6 +261211,29 @@
    "机械",
    "电气"
   ]
+ },
+ {
+  "id": "qz_34b1c9078c0d",
+  "companyId": "co_ba8b84f4",
+  "company": "航空工业南京机电",
+  "jobTitle": "研发工程师",
+  "positions": [
+   "研发工程师",
+   "工艺工程师",
+   "职能管理岗"
+  ],
+  "location": "南京",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://njjdzp.neias.cn/recruit#/index",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "研发工程师、工艺工程师、职能管理岗",
+  "skills": []
  },
  {
   "id": "qz_29abe2b728eb",
@@ -301412,6 +301792,33 @@
    "人力资源",
    "自动化",
    "电气"
+  ]
+ },
+ {
+  "id": "qz_db04a311706d",
+  "companyId": "co_39f382f3",
+  "company": "骏梦游戏",
+  "jobTitle": "策划岗",
+  "positions": [
+   "策划岗",
+   "程序岗",
+   "发行岗",
+   "测试岗"
+  ],
+  "location": "上海",
+  "industry": "游戏",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://www.thedream.cc/?page=talent",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "策划岗,程序岗,发行岗,测试岗",
+  "skills": [
+   "策划",
+   "测试"
   ]
  },
  {
