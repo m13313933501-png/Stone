@@ -33880,27 +33880,6 @@
   ]
  },
  {
-  "id": "qz_aac937664ef3",
-  "companyId": "co_f3e3022a",
-  "company": "中国华能",
-  "jobTitle": "中国华能",
-  "positions": [
-   "中国华能"
-  ],
-  "location": "",
-  "industry": "国企/央企",
-  "batch": "",
-  "status": "待确认",
-  "deadline": null,
-  "applyUrl": "https://www.chng.com.cn/",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://raw.githubusercontent.com/jiabaobei/xiaozhao-radar/main/xiaozhao-radar.html、https://raw.githubusercontent.com/Bynlk/JobHunter/main/config/company_urls.json",
-  "verified": false,
-  "jd": "企业官网节点，状态待确认",
-  "skills": []
- },
- {
   "id": "qz_80bb8b23751e",
   "companyId": "co_87676207",
   "company": "中国南方电网",
@@ -37979,6 +37958,51 @@
   "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K、https://raw.githubusercontent.com/jiabaobei/xiaozhao-radar/main/xiaozhao-radar.html",
   "verified": false,
   "jd": "下属单位岗位，具体见投递方式链接;；企业官网节点，状态待确认",
+  "skills": []
+ },
+ {
+  "id": "qz_2ecddcaa1b29",
+  "companyId": "co_cfe79aeb",
+  "company": "中国消防救援学院",
+  "jobTitle": "教师岗1",
+  "positions": [
+   "教师岗1",
+   "教师岗",
+   "2",
+   "教师岗",
+   "3",
+   "教师岗",
+   "4",
+   "教师岗",
+   "5",
+   "教师岗",
+   "6",
+   "教师岗",
+   "7",
+   "教师岗",
+   "8",
+   "教师岗",
+   "9",
+   "教师岗",
+   "10",
+   "教师岗",
+   "11",
+   "教辅岗（俄语语言文学",
+   "俄语笔译",
+   "俄语口译",
+   "系统......"
+  ],
+  "location": "北京",
+  "industry": "综合",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://recruit.cfri.edu.cn/",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "教师岗1,教师岗 2, 教师岗 3, 教师岗 4, 教师岗 5, 教师岗 6, 教师岗 7, 教师岗 8, 教师岗 9, 教师岗 10, 教师岗 11, 教辅岗（俄语语言文学，俄语笔译，俄语口译，系统......",
   "skills": []
  },
  {
@@ -67168,30 +67192,6 @@
    "运维",
    "测试",
    "化学"
-  ]
- },
- {
-  "id": "qz_05998c8ced47",
-  "companyId": "co_7f962287",
-  "company": "乌鲁木齐银行",
-  "jobTitle": "管理培训生",
-  "positions": [
-   "管理培训生",
-   "综合柜员岗"
-  ],
-  "location": "乌鲁木齐、哈密、喀什、昌吉",
-  "industry": "银行金融",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://hr.boubank.com/",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "管理培训生、综合柜员岗",
-  "skills": [
-   "金融"
   ]
  },
  {
@@ -128235,6 +128235,46 @@
   "verified": false,
   "jd": "航海类持证教师、体育教师、实验教师岗",
   "skills": []
+ },
+ {
+  "id": "qz_4dcb458650b9",
+  "companyId": "co_569696bf",
+  "company": "大连海事大学(第二批)",
+  "jobTitle": "新闻综合采编岗",
+  "positions": [
+   "新闻综合采编岗",
+   "网络基础设施保障岗",
+   "数据与应用系统岗（教育学",
+   "新闻传播学",
+   "新闻与传播",
+   "电气工程",
+   "电子科学与技术",
+   "信息与通信工程",
+   "控制科学与工程",
+   "计算机科学与技术",
+   "软件工程",
+   "电子信息",
+   "数学",
+   "网络空间安全......"
+  ],
+  "location": "大连",
+  "industry": "通信运营商",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "http://recruit.dlmu.edu.cn/#/app/dlhsdx/recruit/zpwz",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "新闻综合采编岗 网络基础设施保障岗 数据与应用系统岗（教育学、新闻传播学、新闻与传播、电气工程、电子科学与技术、信息与通信工程、控制科学与工程、计算机科学与技术、软件工程、电子信息、数学、网络空间安全......",
+  "skills": [
+   "安全",
+   "运营",
+   "通信",
+   "网络",
+   "电气"
+  ]
  },
  {
   "id": "qz_4efe6d0ef863",
@@ -212631,6 +212671,42 @@
   ]
  },
  {
+  "id": "qz_3306f64bf348",
+  "companyId": "co_8d4e6c34",
+  "company": "浙商银行",
+  "jobTitle": "除经济",
+  "positions": [
+   "除经济",
+   "金融",
+   "管理",
+   "法学等专业外",
+   "非常欢迎具备计算机",
+   "人工智能",
+   "数据科学",
+   "信息处理",
+   "数学",
+   "统计学",
+   "量化分析",
+   "物理等相关专业背景或复合背景的同学报名",
+   "总行署期实习分支行岗位"
+  ],
+  "location": "上海、丽水、全国、其它、分行、分行北京分行、分行南京分行苏州分行、分行南昌......、合肥、向湖州、天津、太原、杭州、舟山、衢州",
+  "industry": "银行金融",
+  "batch": "实习",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://zp.czbank.com.cn/zpweb/planController/gotoIndex.mvc?pageType=1",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "除经济、金融、管理、法学等专业外，非常欢迎具备计算机、人工智能、数据科学、信息处理、数学、统计学、量化分析、物理等相关专业背景或复合背景的同学报名；总行署期实习分支行岗位",
+  "skills": [
+   "人工智能",
+   "金融"
+  ]
+ },
+ {
   "id": "qz_94f64d0c39ef",
   "companyId": "co_cd7556ab",
   "company": "浙大启真科技",
@@ -213774,31 +213850,6 @@
   "skills": [
    "人工智能"
   ]
- },
- {
-  "id": "qz_0b15e7286877",
-  "companyId": "co_5c48d824",
-  "company": "浙江文投",
-  "jobTitle": "研学专员",
-  "positions": [
-   "研学专员",
-   "翻译",
-   "英语",
-   "教育学",
-   "旅游管理等相关专业"
-  ],
-  "location": "杭州",
-  "industry": "综合",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://zzrs.zjwentou.com/RedseaPlatform/zhaopin/zpChannelQrCode/society_recruit/officeWebsite.mob",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "研学专员，翻译、英语、教育学、旅游管理等相关专业",
-  "skills": []
  },
  {
   "id": "qz_d319bdfce8cc",
@@ -215477,6 +215528,31 @@
    "投资",
    "能源",
    "电力"
+  ]
+ },
+ {
+  "id": "qz_42a8dd0904a4",
+  "companyId": "co_310c3866",
+  "company": "浙银理财",
+  "jobTitle": "浙银理财综合培养岗（数学",
+  "positions": [
+   "浙银理财综合培养岗（数学",
+   "统计",
+   "金融工程）"
+  ],
+  "location": "杭州",
+  "industry": "银行金融",
+  "batch": "",
+  "status": "已开启",
+  "deadline": null,
+  "applyUrl": "https://zp.czbank.com.cn/zpweb/planController/gotoIndex.mvc?pageType=1",
+  "officialUrl": null,
+  "source": "秋招雷达",
+  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
+  "verified": false,
+  "jd": "浙银理财综合培养岗（数学、统计、金融工程）",
+  "skills": [
+   "金融"
   ]
  },
  {
@@ -226884,49 +226960,6 @@
   ]
  },
  {
-  "id": "qz_8edabe7832f6",
-  "companyId": "co_d18c3bcd",
-  "company": "湖南化工职业技术学院",
-  "jobTitle": "专任教师\\\\化学",
-  "positions": [
-   "专任教师\\\\化学",
-   "材料科学与工程",
-   "化学工程与技术",
-   "石油与天然气工程",
-   "环境科学与工程",
-   "生物学",
-   "生物与医药",
-   "基础医学",
-   "药学",
-   "力学",
-   "机械工程",
-   "动力工程及工程热物理",
-   "仪器科学与技术",
-   "冶金工程",
-   "电气工程",
-   "控制科......"
-  ],
-  "location": "株洲",
-  "industry": "石油化工",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://rst.hunan.gov.cn/rst/xxgk/zpzl/sydwzp/202606/t20260629_34015561.html",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "专任教师\\\\化学、材料科学与工程、化学工程与技术、石油与天然气工程、环境科学与工程、生物学、生物与医药、基础医学、药学、力学、机械工程、动力工程及工程热物理、仪器科学与技术、冶金工程、电气工程、控制科......",
-  "skills": [
-   "机械",
-   "电气",
-   "医药",
-   "生物",
-   "化学",
-   "材料"
-  ]
- },
- {
   "id": "qz_3dfe7846b8d1",
   "companyId": "co_0f57f8f3",
   "company": "湖南医药发展投资",
@@ -227775,34 +227808,6 @@
   "skills": []
  },
  {
-  "id": "qz_3872a434f0eb",
-  "companyId": "co_f00b3106",
-  "company": "湖南省文物考古研究院-第二批",
-  "jobTitle": "文化遗产保护（建设方向）岗",
-  "positions": [
-   "文化遗产保护（建设方向）岗",
-   "文化遗产保护（规划方向）岗",
-   "文化遗产保护（设计方向）岗",
-   "冶金考古古金属研究岗",
-   "史前考古研究岗",
-   "商周考古研究岗",
-   "汉唐考古研究岗",
-   "宋元考古研究岗"
-  ],
-  "location": "长沙",
-  "industry": "综合",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "http://rst.hunan.gov.cn/",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "文化遗产保护（建设方向）岗，文化遗产保护（规划方向）岗，文化遗产保护（设计方向）岗，冶金考古古金属研究岗，史前考古研究岗，商周考古研究岗，汉唐考古研究岗，宋元考古研究岗",
-  "skills": []
- },
- {
   "id": "qz_0dfd4d6ccad8",
   "companyId": "co_cfbd41fb",
   "company": "湖南省气象部门(第三轮)",
@@ -227828,42 +227833,6 @@
   "verified": false,
   "jd": "综合气象观测，综合业务（新一代电子信息技术（含量子技术等）, 信号与信息处理，电磁场与微波技术，气象类，信息技术类，气象相关类）",
   "skills": []
- },
- {
-  "id": "qz_f15cd14d0cae",
-  "companyId": "co_6c20f844",
-  "company": "湖南省省直事业单位",
-  "jobTitle": "保密测评",
-  "positions": [
-   "保密测评",
-   "教师1",
-   "文字综合1",
-   "地质矿产岗",
-   "生态修复岗",
-   "文秘1",
-   "卫星遥感应用岗",
-   "信息化建设岗一",
-   "信息化建设岗二",
-   "地籍数据分析和应用研究岗",
-   "土建业务岗2",
-   "古代器物类藏品研究展示",
-   "书画类藏品研究展示",
-   "民族民......"
-  ],
-  "location": "长沙",
-  "industry": "综合",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://rst.hunan.gov.cn/rst/hnrsksw/rskswsy.html",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "保密测评 教师1 文字综合1 地质矿产岗 生态修复岗 文秘1 卫星遥感应用岗 信息化建设岗一 信息化建设岗二 地籍数据分析和应用研究岗 土建业务岗2 古代器物类藏品研究展示 书画类藏品研究展示 民族民......",
-  "skills": [
-   "数据分析"
-  ]
  },
  {
   "id": "qz_114348d67658",
@@ -244856,30 +244825,6 @@
   "jd": "新事业发展部文创实设计师勘测所测绘技术员;勘测所勘察技术员",
   "skills": [
    "建筑"
-  ]
- },
- {
-  "id": "qz_97dcdf530f88",
-  "companyId": "co_22ef0c47",
-  "company": "福建邮政",
-  "jobTitle": "管培生(综合管理方向财务管理方向经济管理方向信息管理方向)",
-  "positions": [
-   "管培生(综合管理方向财务管理方向经济管理方向信息管理方向)",
-   "分公司专业岗"
-  ],
-  "location": "三明、南平、厦门、宁德、泉州、漳州、福州、莆田、龙岩",
-  "industry": "综合",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://webapp.zhaopin.com/2026/hd/zgyzj0403ZL82493/jobs/index.html",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "管培生(综合管理方向财务管理方向经济管理方向信息管理方向)、分公司专业岗",
-  "skills": [
-   "财务"
   ]
  },
  {
@@ -302500,33 +302445,6 @@
    "人力资源",
    "自动化",
    "电气"
-  ]
- },
- {
-  "id": "qz_db04a311706d",
-  "companyId": "co_39f382f3",
-  "company": "骏梦游戏",
-  "jobTitle": "策划岗",
-  "positions": [
-   "策划岗",
-   "程序岗",
-   "发行岗",
-   "测试岗"
-  ],
-  "location": "上海",
-  "industry": "游戏",
-  "batch": "",
-  "status": "已开启",
-  "deadline": null,
-  "applyUrl": "https://www.thedream.cc/?page=talent",
-  "officialUrl": null,
-  "source": "秋招雷达",
-  "sourceUrl": "https://acnr1ayjzqxf.feishu.cn/base/ISNobVuXAagJBFssvszcYeqQnfb?table=tblh7J5ONBOMBEK8&view=vewFArTk4K",
-  "verified": false,
-  "jd": "策划岗,程序岗,发行岗,测试岗",
-  "skills": [
-   "策划",
-   "测试"
   ]
  },
  {
